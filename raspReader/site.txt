@@ -1,0 +1,5019 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Расписание занятий на неделю - Минский государственный колледж цифровых технологий</title><script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script><link href="https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:400,600,800" rel="stylesheet"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"><link rel="shortcut icon" href="/files/02049/img/logo_mgkct_32x32.png" type="image/x-icon" /><script src="https://kit.fontawesome.com/31efb248c4.js" crossorigin="anonymous"></script><meta property="og:image" content="https://шаблон1.веб-мастерская.бел/files/00009/img/logo.png" /><!-- for visually impaired --><script src="/scripts/wep.js"></script><link href='/files/02049/css/1124v1.css' data-name='bootstrap' rel='stylesheet' type='text/css'/>
+<link href='/files/02049/css/1134v1.css' data-name='slick-slider' rel='stylesheet' type='text/css'/>
+<link href='/files/02049/css/1184v1.css' data-name='fancybox.css' rel='stylesheet' type='text/css'/>
+<link href='/files/02049/css/1114v308.css' data-name='style.css' rel='stylesheet' type='text/css'/>
+<link href='/files/02049/css/1254v1.css' data-name='blind.css' rel='stylesheet' type='text/css'/>
+<link href='/files/02049/css/1304v3.css' data-name='video.css' rel='stylesheet' type='text/css'/>
+<script src='/files/02049/js/1194v1.js' data-name='bootstrap' type='text/javascript'></script>
+<script src='/files/02049/js/1174v1.js' data-name='slick' type='text/javascript'></script>
+<script src='/files/02049/js/1214v1.js' data-name='fancybox3.min.js' type='text/javascript'></script>
+<script src='/files/02049/js/1164v12.js' data-name='script' type='text/javascript'></script>
+<meta name="yandex-verification" content="53a405dc972ab343" />
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(97385460, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/97385460" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+</head>
+<body>
+<div id="layout"><div id="header">	<div class="header_bg"></div>	<div id="header_bar" class="container">		<div class="mod_buttons lng_select">
+
+<a class="wep_toggle" title="Режим для слабовидящих">
+	<span class="glyphicon glyphicon-eye-open"></span>
+</a><div id="google_translate_element"></div>
+
+<script type="text/javascript">eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('6 7(a,b){n{4(2.9){3 c=2.9("o");c.p(b,f,f);a.q(c)}g{3 c=2.r();a.s(\'t\'+b,c)}}u(e){}}6 h(a){4(a.8)a=a.8;4(a==\'\')v;3 b=a.w(\'|\')[1];3 c;3 d=2.x(\'y\');z(3 i=0;i<d.5;i++)4(d[i].A==\'B-C-D\')c=d[i];4(2.j(\'k\')==E||2.j(\'k\').l.5==0||c.5==0||c.l.5==0){F(6(){h(a)},G)}g{c.8=b;7(c,\'m\');7(c,\'m\')}}',43,43,'||document|var|if|length|function|GTranslateFireEvent|value|createEvent||||||true|else|doGTranslate||getElementById|google_translate_element|innerHTML|change|try|HTMLEvents|initEvent|dispatchEvent|createEventObject|fireEvent|on|catch|return|split|getElementsByTagName|select|for|className|goog|te|combo|null|setTimeout|500'.split('|'),0,{}))
+function googleTranslateElementInit2() {new google.translate.TranslateElement({pageLanguage: 'ru', autoDisplay: false}, 'google_translate_element');}
+</script>
+
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit2"></script>
+
+<a href="#" onclick="doGTranslate('ru|be');return false;" translate="no" class="notranslate" title="">
+	БЕ
+</a>
+
+<a href="#" onclick="doGTranslate('ru|ru');return false;" translate="no" class="notranslate" title="">
+	РУ
+</a>
+
+<a href="#" onclick="doGTranslate('ru|en');return false;" translate="no" class="notranslate" title="">
+	EN
+</a></div>	</div>	  <div class="container">
+      <div id="header_caption">
+  <div class="logo col-xs-12 col-sm-2"><img src="/files/02049/img/MGKCT.gif"></div>
+  <div class="content">
+    <p></p>
+    <p class="main-p">Учреждение образования</p>
+    <p class="main-p">Минский государственный колледж цифровых технологий</p>
+  </div>
+</div>
+  </div><nav class="container" id="main_menu">
+	<div class="main_menu_wrapper">
+		<div id="nav_head">
+		
+			<button type="button" class="glyphicon glyphicon-menu-hamburger  navbar-toggle nav_toggle collapsed"> </button>
+			
+			<a href="/">
+				<span class="visible-xs-inline-block">Меню</span>        
+				<span class="hidden-xs home glyphicon glyphicon-home"></span>
+				<span class="hidden-xs"> Главная</span>
+			</a>     	
+     		
+
+
+		</div>
+        
+		<div id="nav_body">
+              
+			<div class="nav_search" >
+              	<button type="button" class="search_bar_toggle hidden-xs">
+              		<span class="glyphicon glyphicon-search"></span>
+          		</button>
+              
+              	<button type="button" class="search_submit">
+                  <span class="glyphicon glyphicon-send"></span>
+          		</button>
+              
+      			<input class="" type="search" />
+			</div>
+
+          <ul class="level_0 parent_active"><li class="parent"><a href="/о-колледже/регистрационные-документы">О колледже</a><ul class="level_1"><li><a href="/о-колледже/регистрационные-документы">Регистрационные документы</a></li><li><a href="/о-колледже/устав-колледжа">Устав колледжа</a></li><li><a href="/о-колледже/структура-колледжа">Структура колледжа</a></li><li><a href="/о-колледже/администрация-колледжа">Администрация колледжа</a></li><li><a href="/о-колледже/педагогический-коллектив">Педагогический коллектив</a></li><li><a href="/о-колледже/cлужащие">Cлужащие</a></li><li><a href="/о-колледже/cлужащие-ахч">Cлужащие АХЧ</a></li><li><a href="/о-колледже/veterany">Ветераны</a></li><li><a href="/о-колледже/почетные-работники-колледжа">Почетные работники колледжа</a></li><li><a href="/о-колледже/контакты">Контакты</a></li><li><a href="/о-колледже/заслуги-колледжа">Заслуги колледжа</a></li><li><a href="/о-колледже/летопись">Летопись</a></li><li><a href="/о-колледже/архив-новостей">Архив новостей</a></li><li><a href="/о-колледже/архив-анонсов">Архив анонсов</a></li><li class="parent"><a href="/о-колледже/экспериментальная-и-инновационная-деятельность">Экспериментальная и инновационная деятельность</a><ul class="level_2"><li><a href="/о-колледже/экспериментальная-и-инновационная-деятельность/новости-эид">Новости ЭИД</a></li><li><a href="/о-колледже/экспериментальная-и-инновационная-деятельность/инклюзивное-образование">Инклюзивное образование</a></li></ul></li><li><a href="/о-колледже/pervichnaia-profsoiuznaia-organizaciia">Первичная профсоюзная организация</a></li><li class="parent"><a href="/о-колледже/profilaktika-korrupcii">Профилактика коррупции</a><ul class="level_2"><li><a href="/о-колледже/profilaktika-korrupcii/plan-raboty-antikorrupcionnoi-komissii">План работы антикоррупционной комиссии</a></li><li><a href="/о-колледже/profilaktika-korrupcii/videoroliki">Видеоролики</a></li></ul></li><li><a href="/о-колледже/политика-в-отношении-обработки-персональных-данных">Политика в отношении обработки персональных данных</a></li><li><a href="/о-колледже/materialno-tehnicheskaia-baza">Материально-техническая база</a></li><li><a href="/о-колледже/центр-профессиональной-и-социальной-реабилитации">Центр профессиональной и социальной реабилитации</a></li><li><a href="/о-колледже/центр-компетенций-по-робототехнике">Центр компетенций по робототехнике</a></li><li><a href="/о-колледже/вакансии">Вакансии</a></li><li><a href="/о-колледже/отзывы">Отзывы</a></li></ul></li><li class="parent"><a href="/абитуриентам/список-учащихся-первого-курса-2025-2026-учебного-года-всеобуч">Абитуриентам</a><ul class="level_1"><li><a href="/абитуриентам/список-учащихся-первого-курса-2025-2026-учебного-года-всеобуч">Список учащихся первого курса 2025/2026 учебного года (ВСЕОБУЧ)</a></li><li><a href="/о-колледже/materialno-tehnicheskaia-baza">Материально-техническая база</a></li><li><a href="/абитуриентам/продолжение-обучения-по-сокращенной-форме-вуз">Продолжение обучения по сокращенной форме (ВУЗ)</a></li><li><a href="/абитуриентам/онлайн-карта-колледжей-г-минска">Онлайн карта колледжей г.Минска</a></li></ul></li><li class="parent"><a href="/воспитательная-работа">Воспитательная работа</a><ul class="level_1"><li><a href="/воспитательная-работа/gosudarstvennaia-simvolika">Государственная символика</a></li><li><a href="/воспитательная-работа/2025-год-благоустройства">2025 - Год благоустройства</a></li><li><a href="/воспитательная-работа/80-я-годовщина-победы-советского-народа-в-великой-отечественной-войне">80-я годовщина Победы советского народа в Великой Отечественной войне</a></li><li><a href="/воспитательная-работа/80-я-годовщина-освобождения-республики-беларусь-от-немецко-фашистских-захватчиков-и-79-летие-победы-советского-народа-в-великой">80-я годовщина освобождения Республики Беларусь от немецко- фашистских захватчиков и 79-летие Победы  советского народа в Великой Отечественной войне</a></li><li><a href="/воспитательная-работа/patrioticheskoe-vospitanie">Патриотическое воспитание</a></li><li><a href="/воспитательная-работа/pamiat-i-bol-belorusskoi-zemli">Память и боль белорусской земли</a></li><li><a href="/воспитательная-работа/shkola-aktivnogo-grajdanina">Школа Активного Гражданина</a></li><li><a href="/воспитательная-работа/edinyi-den-informirovaniia">Единый день информирования</a></li><li class="parent"><a href="/воспитательная-работа/социально-педагогическая-поддержка-и-психологическая-помощь">Социально-педагогическая поддержка и психологическая помощь</a><ul class="level_2"><li><a href="/воспитательная-работа/социально-педагогическая-поддержка-и-психологическая-помощь/rekomendacii-uchascimsia">Рекомендации учащимся</a></li><li><a href="/воспитательная-работа/социально-педагогическая-поддержка-и-психологическая-помощь/rekomendacii-roditeliam">Рекомендации родителям</a></li><li><a href="/воспитательная-работа/социально-педагогическая-поддержка-и-психологическая-помощь/психологическая-помощь"> Психологическая помощь</a></li><li><a href="/воспитательная-работа/социально-педагогическая-поддержка-и-психологическая-помощь/экстренная-помощь">Экстренная помощь</a></li><li><a href="/воспитательная-работа/социально-педагогическая-поддержка-и-психологическая-помощь/gosudarstvennaia-adresnaia-socialnaia-pomosc">Государственная адресная социальная помощь</a></li><li><a href="/воспитательная-работа/социально-педагогическая-поддержка-и-психологическая-помощь/региональная-карта-помощи">Региональная карта помощи</a></li><li><a href="/воспитательная-работа/социально-педагогическая-поддержка-и-психологическая-помощь/национальный-механизм-оказания-помощи-несовершеннолетним-пострадавшим-от-сексуального-насилия-и-эксплуатации">Национальный механизм оказания помощи несовершеннолетним, пострадавшим от сексуального насилия и эксплуатации</a></li><li><a href="/воспитательная-работа/социально-педагогическая-поддержка-и-психологическая-помощь/психологическая-помощь-в-кризисных-ситуациях">Психологическая помощь в кризисных ситуациях</a></li></ul></li><li><a href="/воспитательная-работа/obedineniia-po-interesam">Объединения по интересам</a></li><li><a href="/воспитательная-работа/физкультурно-оздоровительные-и-спортивно-массовые-мероприятия-внутриколледжные-спартакиады">Физкультурно-оздоровительные и спортивно-массовые мероприятия, внутриколледжные спартакиады</a></li><li class="parent"><a href="/воспитательная-работа/obscestvennye-organizacii">Общественные организации</a><ul class="level_2"><li><a href="/воспитательная-работа/obscestvennye-organizacii/brsm">БРСМ</a></li></ul></li><li><a href="/воспитательная-работа/сми-о-нас">СМИ о нас</a></li><li><a href="/воспитательная-работа/pravovoi-ugolok">Правовой уголок</a></li><li class="parent"><a href="/воспитательная-работа/kultura-bezopasnosti">Культура безопасности</a><ul class="level_2"><li><a href="/воспитательная-работа/kultura-bezopasnosti/информационная-безопасность">Информационная безопасность</a></li><li><a href="/воспитательная-работа/kultura-bezopasnosti/вакцинация">Вакцинация</a></li><li><a href="/воспитательная-работа/kultura-bezopasnosti/гаи-информирует">ГАИ информирует</a></li><li><a href="/воспитательная-работа/kultura-bezopasnosti/будьте-аккуратны">Будьте аккуратны!</a></li><li><a href="/воспитательная-работа/kultura-bezopasnosti/правила-эксплуатации-бла">Правила эксплуатации БЛА</a></li><li><a href="/воспитательная-работа/kultura-bezopasnosti/минск-здоровый-город">Минск - здоровый город!</a></li><li><a href="/воспитательная-работа/kultura-bezopasnosti/stop-наркобизнес">Stop наркобизнес</a></li></ul></li><li class="parent"><a href="/воспитательная-работа/нормативное-правовое-обеспечение">Нормативное правовое обеспечение</a><ul class="level_2"><li><a href="/воспитательная-работа/нормативное-правовое-обеспечение/нормативные-правовые-акты">Нормативные правовые акты</a></li><li><a href="/воспитательная-работа/нормативное-правовое-обеспечение/перечень-нормативных-правовых-документов">Перечень нормативных правовых документов</a></li></ul></li><li><a href="/воспитательная-работа/zdorovoe-pitanie">Здоровое питание</a></li><li><a href="/воспитательная-работа/inspekciia-po-delam-nesovershennoletnih-informiruet">Инспекция по делам несовершеннолетних информирует</a></li></ul></li><li class="parent_active parent"><a href="/персоналии">Персоналии</a><ul class="level_1 parent_active"><li class="parent"><a href="/персоналии/преподавателям/metodicheskie-resursy">Преподавателям</a><ul class="level_2"><li><a href="/персоналии/преподавателям/metodicheskie-resursy">Методические ресурсы</a></li><li><a href="/персоналии/преподавателям/pravila-pedagogicheskih-rabotnikov">Правила педагогических работников</a></li><li><a href="/персоналии/преподавателям/raspisanie-zvonkov">Расписание звонков</a></li><li><a href="/персоналии/преподавателям/расписание-занятий-на-неделю">Расписание занятий на неделю</a></li><li><a href="/персоналии/преподавателям/trudovaia-disciplina">Трудовая дисциплина</a></li><li><a href="/персоналии/учащимся/график-государственных-экзаменов">График государственных экзаменов</a></li><li><a href="/персоналии/преподавателям/grafik-provedeniia-ekzamenov">График проведения экзаменов</a></li><li><a href="/персоналии/преподавателям/расписание-занятий-на-день">Расписание занятий на день</a></li><li><a href="/персоналии/преподавателям/корпоративная-сеть-колледжа">Корпоративная сеть колледжа</a></li><li><a href="/персоналии/преподавателям/диспансеризация">Диспансеризация</a></li></ul></li><li class="parent_active parent"><a href="/персоналии/учащимся">Учащимся</a><ul class="level_2 parent_active"><li><a href="/персоналии/учащимся/карта-безопасного-маршрута">Карта безопасного маршрута</a></li><li><a href="/персоналии/учащимся/советы-психолога">Советы психолога</a></li><li><a href="/персоналии/учащимся/основы-безопасности-жизнедеятельности">Основы безопасности жизнедеятельности</a></li><li><a href="/персоналии/учащимся/график-экзаменов">График экзаменов</a></li><li><a href="/персоналии/учащимся/график-государственных-экзаменов">График государственных экзаменов</a></li><li><a href="/персоналии/учащимся/расписание-каникул">Расписание каникул</a></li><li class="active"><a href="/персоналии/учащимся/расписание-занятий-на-неделю">Расписание занятий на неделю</a></li><li><a href="/персоналии/учащимся/трудоустройство-молодежи-в-свободное-от-учебы-время">Трудоустройство молодежи в свободное от учебы время</a></li><li><a href="/персоналии/учащимся/правила-внутреннего-распорядка">Правила внутреннего распорядка</a></li><li><a href="/персоналии/учащимся/организация-питания-в-колледже">Организация питания в колледже</a></li><li><a href="/персоналии/учащимся/библиотека">Библиотека</a></li><li><a href="/персоналии/учащимся/платные-курсы">Платные курсы</a></li></ul></li><li class="parent"><a href="/персоналии/родителям/важно-знать">Родителям</a><ul class="level_2"><li><a href="/персоналии/родителям/важно-знать">Важно знать</a></li><li><a href="/персоналии/родителям/советы-психолога-родителям">Советы психолога родителям</a></li><li><a href="/персоналии/родителям/разное">Разное</a></li><li><a href="/персоналии/родителям/платное-обучение">Платное обучение</a></li><li><a href="/персоналии/учащимся/организация-питания-в-колледже">Организация питания в колледже</a></li></ul></li></ul></li><li class="parent"><a href="/работа-с-гражданами">Работа с гражданами</a><ul class="level_1"><li><a href="/о-колледже/структура-колледжа">Структура колледжа</a></li><li><a href="/работа-с-гражданами/режим-работы-колледжа">Режим работы колледжа</a></li><li><a href="/работа-с-гражданами/вышестоящая-организация">Вышестоящая организация</a></li><li><a href="/работа-с-гражданами/место-расположения">Место расположения</a></li><li class="parent"><a href="/работа-с-гражданами/administrativnye-procedury-po-principu-odnogo-okna/перечень-административных-процедур">Административные процедуры по принципу "Одного окна"</a><ul class="level_2"><li><a href="/работа-с-гражданами/administrativnye-procedury-po-principu-odnogo-okna/перечень-административных-процедур">Перечень административных процедур</a></li><li><a href="/работа-с-гражданами/administrativnye-procedury-po-principu-odnogo-okna/терминология-и-нормативные-правовые-акты">Терминология и нормативные правовые акты</a></li><li><a href="/работа-с-гражданами/administrativnye-procedury-po-principu-odnogo-okna/zakon-respubliki-belarus-433-3">Закон Республики Беларусь №433-3</a></li><li><a href="/работа-с-гражданами/administrativnye-procedury-po-principu-odnogo-okna/zakon-respubliki-belarus-407-xii">Закон Республики Беларусь №407-XII</a></li><li><a href="/работа-с-гражданами/administrativnye-procedury-po-principu-odnogo-okna/zakon-respubliki-belarus-300-3">Закон Республики Беларусь №300-3</a></li><li><a href="/работа-с-гражданами/administrativnye-procedury-po-principu-odnogo-okna/ukaz-prezidenta-respubliki-belarus-498">Указ Президента Республики Беларусь №498</a></li><li><a href="/работа-с-гражданами/administrativnye-procedury-po-principu-odnogo-okna/ukaz-prezidenta-respubliki-belarus-630">Указ Президента Республики Беларусь №630</a></li><li><a href="/работа-с-гражданами/administrativnye-procedury-po-principu-odnogo-okna/postanovlenie-soveta-ministrov-respubliki-belarus-1786">Постановление Совета Министров Республики Беларусь №1786</a></li><li><a href="/работа-с-гражданами/administrativnye-procedury-po-principu-odnogo-okna/postanovlenie-soveta-ministrov-respubliki-belarus-285">Постановление Совета Министров Республики Беларусь №285</a></li><li><a href="/работа-с-гражданами/administrativnye-procedury-po-principu-odnogo-okna/rekomendacii-ministerstva-iusticii-respubliki-belarus-ot-19-07-2010">Рекомендации Министерства юстиции Республики Беларусь от 19.07.2010</a></li></ul></li><li><a href="/работа-с-гражданами/график-приема-граждан">График приема граждан</a></li><li><a href="/работа-с-гражданами/ситуационная-помощь-инвалидам">Ситуационная помощь инвалидам</a></li><li><a href="/работа-с-гражданами/электронное-обращение">Электронное обращение</a></li><li><a href="/работа-с-гражданами/график-работы-администрации-октябрьского-района">График работы администрации Октябрьского района</a></li><li><a href="/работа-с-гражданами/график-работы-администрации-комитета-по-образованию-мингорисполкома">График работы администрации комитета по образованию Мингорисполкома</a></li><li><a href="/работа-с-гражданами/ближайшее-банковское-учреждение">Ближайшее банковское учреждение</a></li><li><a href="/работа-с-гражданами/банковские-реквизиты">Банковские реквизиты</a></li><li><a href="/работа-с-гражданами/консультации-о-работе-одного-окна">Консультации о работе "Одного окна"</a></li><li><a href="/работа-с-гражданами/портал-рейтинговой-оценки">Портал рейтинговой оценки</a></li><li><a href="/работа-с-гражданами/горячая-телефонная-линия">Горячая телефонная линия</a></li><li><a href="/работа-с-гражданами/прямая-телефонная-линия">Прямая телефонная линия</a></li></ul></li><li class="parent"><a href="/сервисы/карта-сайта">Сервисы</a><ul class="level_1"><li><a href="/сервисы/карта-сайта">Карта сайта</a></li></ul></li></ul>		</div>
+	</div>
+</nav></div><div id="body">  <div class="main container">	<div class="col-xs-12 breadcrumbs text-right">
+<a href="/">Главная</a> &raquo; <a href="/персоналии">Персоналии</a> &raquo; <a href="/персоналии/учащимся">Учащимся</a> &raquo; <span>Расписание занятий на неделю</span></div>	<div id="main-p" class="col-sm-8 col-lg-9 article">																	<div class="entry taj">
+  <div class="content"><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>[Форма: Расписание всех групп; Расписание по группам, вариант 1]</p>
+<h1>Расписание занятий для групп</h1>
+<h2>Группа - 100</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Химия<br />(Лек)<br />Филипцова Е. В.</td>
+<td class="sub">304</td>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">502</td>
+<td>Рус Яз<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">502</td>
+<td>Бел Лит<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">701</td>
+</tr>
+<tr>
+<th>2</th>
+<td>1.Информатика<br />(ЛР)<br />Картавенко А. А.<br />2.Информатика<br />(ЛР)<br />Гаврилович Д. И.</td>
+<td class="sub">3-212 (к)<br />2-206 (к)</td>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
+<td>Бел Яз<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">701</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Рус Лит<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-<br />-</td>
+<td>Химия<br />(Лек)<br />Филипцова Е. В.</td>
+<td class="sub">304</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 101*</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">Кн.1-224(к)</td>
+<td>Информатика<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Рус Лит<br />(Лек)<br />Козлова Т. А.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Бел Яз<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-129(к)</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Рус Яз<br />(Лек)<br />Козлова Т. А.</td>
+<td class="sub">Кн.1-224(к)</td>
+<td>Соц ориент<br />(Лек)<br />Бондарь С. Л.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Рус Яз<br />(Лек)<br />Козлова Т. А.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">Кн.1-129(к)</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">Кн.1-224(к)</td>
+<td>Бел Яз<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Рус Яз<br />(Лек)<br />Козлова Т. А.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Бел Лит<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Бел Лит<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-129(к)</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 164*</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>ИнЯз Проф<br />(Лек)<br />Левданская П. В.</td>
+<td class="sub">Кн.1-206</td>
+<td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">Кн.1-124</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">Кн.1-317</td>
+<td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">Кн.1-208</td>
+<td>Сис авт проект<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">Кн.1-206</td>
+<td>Оптимизация тех<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
+<td class="sub">Кн.1-212</td>
+<td>Бел Яз Проф<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">Кн.1-317</td>
+<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
+<td>Бел Яз Проф<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">Кн.1-317</td>
+<td>Сис авт проект<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">Кн.1-206</td>
+<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">Кн.1-317</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">Кн.1-317</td>
+<td>Техн марш ИС<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">Кн.2-312</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+<td>ИнЯз Проф<br />(Лек)<br />Левданская П. В.</td>
+<td class="sub">Кн.1-206</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">Кн.1-317</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Факульт ФКиЗ<br />(ф-в)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+<td>Техн марш ИС<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">Кн.2-312</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Факульт ФКиЗ<br />(ф-в)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 165*</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">Кн.1-317</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">Кн.1-317</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">Кн.1-317</td>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">Кн.1-208</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">Кн.1-319</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>3</th>
+<td>ИнЯз Проф<br />(ПР)<br />Левданская П. В.</td>
+<td class="sub">Кн.1-206</td>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">Кн.1-124</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">Кн.1-319</td>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">Кн.1-208</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">Кн.1-319</td>
+<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>4</th>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">Кн.1-124</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">Кн.1-319</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
+<td>Функц. микроэл.<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 166*</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">Кн.2-312</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Веб-програмСерв<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">Кн.132(к)</td>
+<td>Системы упр БД<br />(Лек)<br />Гаврилович Д. И.</td>
+<td class="sub">Кн.1-317</td>
+<td>ИнЯз Проф<br />(Лек)<br />Колинко Н. Г.</td>
+<td class="sub">Кн.1-208</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Android<br />(Лек)<br />Куцый Д. А.</td>
+<td class="sub">Кн.132(к)</td>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">Кн.2-312</td>
+<td>Основы права<br />(Лек)<br />Фетисова Ю. Б.</td>
+<td class="sub">Кн.1-201</td>
+<td>Веб-програмСерв<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">Кн.132(к)</td>
+<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">Кн.132(к)</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Android<br />(Лек)<br />Куцый Д. А.</td>
+<td class="sub">Кн.132(к)</td>
+<td>Веб-програмСерв<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">Кн.1-127</td>
+<td>Основы права<br />(Лек)<br />Фетисова Ю. Б.</td>
+<td class="sub">Кн.1-201</td>
+<td>Основы права<br />(Лек)<br />Фетисова Ю. Б.</td>
+<td class="sub">Кн.1-111</td>
+<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">Кн.132(к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Визуал проект<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">-</td>
+<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">Кн.132(к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Бел Яз Проф<br />(ЛР)<br />Барсукова Н. В.</td>
+<td class="sub">Кн.1-317</td>
+<td>Предп деят и УП<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">Кн.132(к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 167*</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>ПСС internet<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>ПСС internet<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>История бел гос<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>История бел гос<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Комп сети<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>Тех разр ПО<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>Комп сети<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>КПиЯП<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>КПиЯП<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>КПиЯП<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн 1-109(к)</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Техн коммун<br />(Лек)<br />Потапчик И. Г.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>КПиЯП<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>Тест ПО<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>Техн коммун<br />(Лек)<br />Потапчик И. Г.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>Тех разр ПО<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>КПиЯП<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн 1-109(к)</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>История бел гос<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Тех разр ПО<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн 1-109(к)</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 168*</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-201</td>
+<td>Тех и обо ВЭиПХ<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
+<td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>2</th>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+<td>Техн и обор ЛП<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-201</td>
+<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
+<td>Методы и средст<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
+<td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-325(к)</td>
+<td>Техн и обор ЛП<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
+<td>Тех и обо ВЭиПХ<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-201</td>
+<td>Техн и обор ЛП<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
+<td>Методы и средст<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
+<td>Тех и обо ВЭиПХ<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
+<td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
+<td>Техн и обор ЛП<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-201</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 169*</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
+<td class="sub">Кн.1-107</td>
+<td>Арифмет-лог ВТ<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-107</td>
+<td>Инструмент ПО<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-107</td>
+<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
+<td class="sub">Кн.1-107</td>
+<td>Инструмент ПО<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-107</td>
+<td>ОсА<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-107</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Арифмет-лог ВТ<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-107</td>
+<td>Оперсис<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн.1-107</td>
+<td>ОсА<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-107</td>
+<td>ЗНТЧС<br />(Лек)<br />Фетисова Ю. Б.</td>
+<td class="sub">Кн.1-107</td>
+<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
+<td class="sub">Кн.1-107</td>
+<td>ЗНТЧС<br />(Лек)<br />Фетисова Ю. Б.</td>
+<td class="sub">Кн.1-107</td>
+</tr>
+<tr>
+<th>3</th>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">Кн.1-107</td>
+<td>Защита КИ<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн.1-107</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">Кн.1-107</td>
+<td>Инструмент ПО<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-107</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ЗНТЧС<br />(Лек)<br />Фетисова Ю. Б.</td>
+<td class="sub">Кн.1-107</td>
+</tr>
+<tr>
+<th>4</th>
+<td>ОсА<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-107</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">Кн.1-107</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 70</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-204 маст</td>
+<td>Тех.обслуж.<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-204 маст</td>
+<td>Автомат электр<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">Кн.1-319</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>2</th>
+<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Левданская П. В.</td>
+<td class="sub">Кн.1-208<br />Кн.1-206</td>
+<td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">Кн.1-124</td>
+<td>Тех эксплуат<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-204 маст</td>
+<td>Автомат электр<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">Кн.1-319</td>
+<td>Тех.обслуж.<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-204 маст</td>
+<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Левданская П. В.</td>
+<td class="sub">Кн.1-208<br />Кн.1-206</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
+<td class="sub">Кн.1-212</td>
+<td>Автомат электр<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">Кн.1-319</td>
+<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Левданская П. В.</td>
+<td class="sub">Кн.1-208<br />Кн.1-206</td>
+<td>Тех.обслуж.<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-204 маст</td>
+<td>Тех эксплуат<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-204 маст</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
+<td class="sub">Кн.1-212</td>
+<td>Автомат электр<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">Кн.1-319</td>
+<td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-204 маст</td>
+<td>Коррупция<br />(ф-в)<br />Фетисова Ю. Б.</td>
+<td class="sub">Кн.1-124</td>
+<td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-204 маст</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 71</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
+</tr>
+<tr>
+<th>2</th>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
+</tr>
+<tr>
+<th>3</th>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
+</tr>
+<tr>
+<th>4</th>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
+<td class="sub">Кн.2-413 маст</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 72</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+<td>1.ИнЯз Проф<br />(ПР)<br />Шаповалова Ю. В.<br />2.ИнЯз Проф<br />(ПР)<br />Левданская П. В.</td>
+<td class="sub">3-210<br />3-207</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ТехРоботозирПр<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>ТехРоботозирПр<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+</tr>
+<tr>
+<th>2</th>
+<td>СУПРиРК<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
+<td class="sub">2-211</td>
+<td>СУПРиРК<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>ТехРоботозирПр<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>ТОиРемПомРобот<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>ТОиРемПомРобот<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+</tr>
+<tr>
+<th>3</th>
+<td>ПО промыш робот<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
+<td class="sub">2-211</td>
+<td>СУПРиРК<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>1.ИнЯз Проф<br />(ПР)<br />Шаповалова Ю. В.<br />2.ИнЯз Проф<br />(ПР)<br />Левданская П. В.</td>
+<td class="sub">3-210<br />3-207</td>
+<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
+<td class="sub">2-211</td>
+<td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+<td>2.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
+<td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>СУПРиРК<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 73</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table style="width: 1172px;" border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th style="width: 26px;" rowspan="2">№</th>
+<th style="width: 191px;" colspan="2">Понедельник, 01.09.2025</th>
+<th style="width: 191px;" colspan="2">Вторник, 02.09.2025</th>
+<th style="width: 191px;" colspan="2">Среда, 03.09.2025</th>
+<th style="width: 191px;" colspan="2">Четверг, 04.09.2025</th>
+<th style="width: 191px;" colspan="2">Пятница, 05.09.2025</th>
+<th style="width: 191px;" colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub" style="width: 146px;">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub" style="width: 45px;">Ауд.</th>
+<th class="sub" style="width: 146px;">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub" style="width: 45px;">Ауд.</th>
+<th class="sub" style="width: 146px;">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub" style="width: 45px;">Ауд.</th>
+<th class="sub" style="width: 146px;">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub" style="width: 45px;">Ауд.</th>
+<th class="sub" style="width: 146px;">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub" style="width: 45px;">Ауд.</th>
+<th class="sub" style="width: 146px;">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub" style="width: 45px;">Ауд.</th>
+</tr>
+<tr>
+<th style="width: 26px;">1</th>
+<td style="width: 146px;">АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub" style="width: 45px;">504 (к)</td>
+<td style="width: 146px;">Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub" style="width: 45px;">2-105 (к)</td>
+<td style="width: 146px;">ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub" style="width: 45px;">2-206 (к)</td>
+<td style="width: 146px;">Базы данных<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub" style="width: 45px;">3-205 (к)</td>
+<td style="width: 146px;">Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub" style="width: 45px;">2-105 (к)</td>
+<td style="width: 146px;">Базы данных<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub" style="width: 45px;">3-205 (к)</td>
+</tr>
+<tr>
+<th style="width: 26px;">2</th>
+<td style="width: 146px;">Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
+<td class="sub" style="width: 45px;">3-202 (к)</td>
+<td style="width: 146px;">Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
+<td class="sub" style="width: 45px;">3-202 (к)</td>
+<td style="width: 146px;">Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
+<td class="sub" style="width: 45px;">3-202 (к)</td>
+<td style="width: 146px;">Осн предпр дея<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub" style="width: 45px;">504 (к)</td>
+<td style="width: 146px;">1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub" style="width: 45px;">-<br />-<br />-</td>
+<td style="width: 146px;">АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub" style="width: 45px;">504 (к)</td>
+</tr>
+<tr>
+<th style="width: 26px;">3</th>
+<td style="width: 146px;">ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub" style="width: 45px;">603</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">Осн предпр дея<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub" style="width: 45px;">504 (к)</td>
+<td style="width: 146px;">Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub" style="width: 45px;">2-105 (к)</td>
+<td style="width: 146px;">Базы данных<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub" style="width: 45px;">3-205 (к)</td>
+<td style="width: 146px;">Осн предпр дея<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub" style="width: 45px;">504 (к)</td>
+</tr>
+<tr>
+<th style="width: 26px;">4</th>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">1.Визуал проект<br />(ЛР)<br />Шавейко А. А.</td>
+<td class="sub" style="width: 45px;">3-202 (к)</td>
+<td style="width: 146px;">2.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.</td>
+<td class="sub" style="width: 45px;">702</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+</tr>
+<tr>
+<th style="width: 26px;">5</th>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+</tr>
+<tr>
+<th style="width: 26px;">6</th>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+<td style="width: 146px;">&nbsp;</td>
+<td class="sub" style="width: 45px;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 74</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
+<td class="sub">3-202 (к)</td>
+<td>1.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
+<td>Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
+<td class="sub">3-202 (к)</td>
+<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">504 (к)</td>
+<td>Осн предпр дея<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
+<td class="sub">3-202 (к)</td>
+</tr>
+<tr>
+<th>2</th>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+<td>Осн предпр дея<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>Базы данных<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>Базы данных<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+</tr>
+<tr>
+<th>3</th>
+<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">504 (к)</td>
+<td>Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
+<td class="sub">3-202 (к)</td>
+<td>Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
+<td class="sub">3-202 (к)</td>
+<td>1.Визуал проект<br />(ЛР)<br />Шавейко А. А.<br />2.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.</td>
+<td class="sub">3-202 (к)<br />702</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.</td>
+<td class="sub">-<br />-<br />-</td>
+</tr>
+<tr>
+<th>4</th>
+<td>1.Факульт ФКиЗ<br />(ф-в)<br />Анципов Е. Ю.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />3.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">504 (к)</td>
+<td>2.Визуал проект<br />(ЛР)<br />Шавейко А. А.</td>
+<td class="sub">3-202 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>1.Факульт ФКиЗ<br />(ф-в)<br />Анципов Е. Ю.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />3.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 75</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>ВП для МУ<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
+<td class="sub">2-211</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Обслуж АО Моб<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>Обслуж АО Моб<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>1.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Обслуж АО Моб<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>Раз прил для МУ<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>Бел Яз Проф<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
+<td>Раз прил для МУ<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>ВП для МУ<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>Структуры и БД<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Раз прил для МУ<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>Структуры и БД<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>Комп сети<br />(Лек)<br />Бокач Д. В.</td>
+<td class="sub">602</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+<td>Комп сети<br />(Лек)<br />Бокач Д. В.</td>
+<td class="sub">602</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+<td>Комп сети<br />(Лек)<br />Бокач Д. В.</td>
+<td class="sub">602</td>
+<td>ВП для МУ<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
+<td class="sub">2-211</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>1.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 76</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">3-114</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">3-103 (лаб)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+</tr>
+<tr>
+<th>2</th>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />3.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Техн коммун<br />(Лек)<br />Лихачева О. П.</td>
+<td class="sub">304</td>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+</tr>
+<tr>
+<th>3</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">701</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">304</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">3-113</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 77</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">3-113</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>1.Факульт ФКиЗ<br />(ф-в)<br />Анципов Е. Ю.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.</td>
+<td class="sub">-<br />-</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">3-103 (лаб)</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">304</td>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>Техн коммун<br />(Лек)<br />Лихачева О. П.</td>
+<td class="sub">301</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+<td>1.Бел Яз Проф<br />(ПР)<br />Барсукова Н. В.</td>
+<td class="sub">701</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.</td>
+<td class="sub">-<br />-</td>
+<td>2.Бел Яз Проф<br />(ПР)<br />Барсукова Н. В.</td>
+<td class="sub">701</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>1.Факульт ФКиЗ<br />(ф-в)<br />Анципов Е. Ю.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.</td>
+<td class="sub">-<br />-</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 78</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">701</td>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">302</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>1.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />3.Факульт ФКиЗ<br />(ф-в)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">3-113</td>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+<td>Техн коммун<br />(Лек)<br />Лихачева О. П.</td>
+<td class="sub">3-212 (к)</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>4</th>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">3-114</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Техн коммун<br />(Лек)<br />Лихачева О. П.</td>
+<td class="sub">301</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">3-113</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>1.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />3.Факульт ФКиЗ<br />(ф-в)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 79</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Эл.освещ.<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-006</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Эл машины<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">Кн.1-127</td>
+<td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-204 маст</td>
+<td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-204 маст</td>
+<td>Осн.эл.привода<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">Кн.1-124</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-006</td>
+<td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-204 маст</td>
+<td>Эл машины<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">Кн.1-127</td>
+<td>Осн.эл.привода<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">Кн.1-124</td>
+<td>ОснАвтиМикрТех<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">Кн.2-312</td>
+<td>Осн.эл.привода<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">Кн.1-124</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Электроснаб<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-006</td>
+<td>Электроснаб<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-204 маст</td>
+<td>Эл.освещ.<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-204 маст</td>
+<td>Осн.эл.привода<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">Кн.1-124</td>
+<td>ОснАвтиМикрТех<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">Кн.2-312</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Электроснаб<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">Кн.1-006</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 80</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Механ пром робо<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>НЭОПИМ<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>2.Инф техн<br />(ЛР)<br />Куцый Д. А.</td>
+<td class="sub">605 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Механ пром робо<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Пром электр<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Элпр и автом<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>Цифр и микр тех<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>1.Инф техн<br />(ЛР)<br />Куцый Д. А.</td>
+<td class="sub">605 (к)</td>
+<td>Элпр и автом<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>АвтомПр<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>3</th>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.</td>
+<td class="sub">-<br />-</td>
+<td>Механ пром робо<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>АвтомПр<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">2-212</td>
+<td>Цифр и микр тех<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Механ пром робо<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>Цифр и микр тех<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Элпр и автом<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>АвтомПр<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">2-212</td>
+<td>Цифр и микр тех<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>НЭОПИМ<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 81</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>История бел гос<br />(Лек)<br />Сотникова О. А.</td>
+<td class="sub">402</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
+<td class="sub">501 (к)</td>
+<td>Техн коммун<br />(ПР)<br />Лихачева О. П.</td>
+<td class="sub">304</td>
+<td>Тест ПО<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">504 (к)</td>
+</tr>
+<tr>
+<th>2</th>
+<td>История бел гос<br />(Лек)<br />Сотникова О. А.</td>
+<td class="sub">403</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Тест ПО<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">504 (к)</td>
+<td>Защита КИ<br />(Лек)<br />Гаврилович Д. И.</td>
+<td class="sub">2-206 (к)</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
+<td class="sub">501 (к)</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
+<td class="sub">501 (к)</td>
+<td>Тест ПО<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">504 (к)</td>
+<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
+<td class="sub">501 (к)</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+</tr>
+<tr>
+<th>4</th>
+<td>ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">501 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">2-206 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 82</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Защита КИ<br />(Лек)<br />Гаврилович Д. И.</td>
+<td class="sub">2-206 (к)</td>
+<td>Тест ПО<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">504 (к)</td>
+<td>Техн коммун<br />(ПР)<br />Лихачева О. П.</td>
+<td class="sub">3-212 (к)</td>
+<td>ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">501 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Тест ПО<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">504 (к)</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.</td>
+<td class="sub">-<br />-</td>
+<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
+<td class="sub">501 (к)</td>
+<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
+<td class="sub">501 (к)</td>
+<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
+<td class="sub">501 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Защита КИ<br />(Лек)<br />Гаврилович Д. И.</td>
+<td class="sub">2-206 (к)</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">2-206 (к)</td>
+<td>Защита КИ<br />(Лек)<br />Гаврилович Д. И.</td>
+<td class="sub">2-206 (к)</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
+<td class="sub">501 (к)</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Защита КИ<br />(Лек)<br />Гаврилович Д. И.</td>
+<td class="sub">2-206 (к)</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 83</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>Анал и циф схем<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+</tr>
+<tr>
+<th>2</th>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">2-211</td>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">704</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(ЛР)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">402</td>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">304</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Холмовская Е. Н.</td>
+<td class="sub">2-211</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>4</th>
+<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(ЛР)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 84</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">402</td>
+<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">2-109</td>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">704</td>
+<td>ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.</td>
+<td class="sub">-</td>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>2</th>
+<td>ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.</td>
+<td class="sub">-</td>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">304</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+</tr>
+<tr>
+<th>3</th>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>Анал и циф схем<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Анал и циф схем<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">704</td>
+<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>4</th>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Холмовская Е. Н.</td>
+<td class="sub">2-211</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 85</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Электррадиокомп<br />(Лек)<br />Гриневич П. Р.</td>
+<td class="sub">Кн.1-124</td>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>Электррадиокомп<br />(Лек)<br />Гриневич П. Р.</td>
+<td class="sub">Кн.1-319</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Пром электр<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">Кн.2-312</td>
+<td>1.Ин Яз<br />(ПР)<br />Скобля Я. Э.<br />2.Ин Яз<br />(ПР)<br />Левданская П. В.</td>
+<td class="sub">Кн.1-126<br />Кн.1-206</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Тех Мех<br />(Лек)<br />Бородин Н. Д.</td>
+<td class="sub">Кн.1-319</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Бураков И. С.<br />2.ФЗКиЗ<br />(ЛР)<br />Анципов Е. Ю.</td>
+<td class="sub">-<br />-</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Бураков И. С.<br />2.ФЗКиЗ<br />(ЛР)<br />Анципов Е. Ю.</td>
+<td class="sub">-<br />-</td>
+<td>Тех Мех<br />(Лек)<br />Бородин Н. Д.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Тех Мех<br />(Лек)<br />Бородин Н. Д.</td>
+<td class="sub">Кн.1-319</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">3-209</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">Кн.1-127</td>
+<td>Матвед<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">Кн.1-319</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Тех Мех<br />(Лек)<br />Бородин Н. Д.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>4</th>
+<td>2.Ин Яз<br />(ПР)<br />Левданская П. В.</td>
+<td class="sub">Кн.1-206</td>
+<td>Пром электр<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Матвед<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">Кн.1-319</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 86</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>1.Ин Яз<br />(ПР)<br />Левданская П. В.<br />2.Ин Яз<br />(ПР)<br />Шаповалова Ю. В.</td>
+<td class="sub">3-207<br />3-210</td>
+<td>Матвед<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">701</td>
+<td>Пром электр<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+</tr>
+<tr>
+<th>2</th>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+<td>Матвед<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">303</td>
+<td>ЭРЭиУФЭ<br />(Лек)<br />Гриневич П. Р.</td>
+<td class="sub">3-212 (к)</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+<td>Основы инж гр<br />(Лек)<br />Воронько С. В.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>Осн тех механик<br />(Лек)<br />Бородин Н. Д.</td>
+<td class="sub">3-113</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>Осн тех механик<br />(Лек)<br />Бородин Н. Д.</td>
+<td class="sub">3-113</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Пром электр<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Осн тех механик<br />(Лек)<br />Бородин Н. Д.</td>
+<td class="sub">3-113</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Осн тех механик<br />(Лек)<br />Бородин Н. Д.</td>
+<td class="sub">3-113</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 87</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Основы инфбезоп<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+<td>Арифмет-лог ВТ<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Арифмет-лог ВТ<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+</tr>
+<tr>
+<th>2</th>
+<td>JavaScript<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">501 (к)</td>
+<td>Оперсис<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">3-209</td>
+<td>1.Ин Яз<br />(ПР)<br />Левданская П. В.<br />2.Ин Яз<br />(ПР)<br />Шаповалова Ю. В.</td>
+<td class="sub">2-205<br />3-210</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">3-209</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+<td>Оперсис<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
+<td class="sub">402</td>
+<td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">3-209</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+<td>JavaScript<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">2-206 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 88</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+<td>Основы инфбезоп<br />(Лек)<br />Бокач Д. В.</td>
+<td class="sub">602</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">3-209</td>
+<td>1.Ин Яз<br />(ЛР)<br />Левданская П. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
+<td class="sub">2-205<br />3-210</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">3-209</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">3-209</td>
+<td>1.Ин Яз<br />(ЛР)<br />Левданская П. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
+<td class="sub">3-207<br />3-210</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>Оперсис<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>Арифмет-лог ВТ<br />(Лек)<br />Бокач Д. В.</td>
+<td class="sub">602</td>
+<td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+</tr>
+<tr>
+<th>3</th>
+<td>JavaScript<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">501 (к)</td>
+<td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(ЛР)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">3-209</td>
+<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Оперсис<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 89</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">3-209</td>
+<td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Оперсис<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+<td>Совр. язык Java<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">2-206 (к)</td>
+<td>1.Ин Яз<br />(ЛР)<br />Левданская П. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
+<td class="sub">3-207<br />3-210</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">3-209</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>1.Ин Яз<br />(ЛР)<br />Левданская П. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
+<td class="sub">3-207<br />3-210</td>
+<td>Арифмет-лог ВТ<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>Арифмет-лог ВТ<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>Совр. язык Java<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">2-206 (к)</td>
+<td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Основы инфбезоп<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.</td>
+<td class="sub">-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 9</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Делопроизводств<br />(Лек)<br />Пешкова Г. Д.</td>
+<td class="sub">Кн.1-322</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">Кн.1-124</td>
+<td>Секретарск дело<br />(Лек)<br />Пешкова Г. Д.</td>
+<td class="sub">Кн.1-322</td>
+<td>1.Ин Яз<br />(ПР)<br />Колинко Н. Г.<br />2.Ин Яз<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-208<br />Кн.1-126</td>
+<td>Секретарск дело<br />(Лек)<br />Пешкова Г. Д.</td>
+<td class="sub">Кн.1-322</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Секретарск дело<br />(Лек)<br />Пешкова Г. Д.</td>
+<td class="sub">Кн.1-322</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
+<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-208<br />Кн.1-126</td>
+<td>Делопроизводств<br />(Лек)<br />Пешкова Г. Д.</td>
+<td class="sub">Кн.1-322</td>
+<td>1.Практика речи<br />(ПР)<br />Колинко Н. Г.<br />2.Практика речи<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-208<br />Кн.1-126</td>
+<td>Делопроизводств<br />(Лек)<br />Пешкова Г. Д.</td>
+<td class="sub">Кн.1-322</td>
+</tr>
+<tr>
+<th>3</th>
+<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-208<br />Кн.1-126</td>
+<td>Инф техн<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">Кн.1-322</td>
+<td>ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.</td>
+<td class="sub">-</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
+<td>ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.</td>
+<td class="sub">-</td>
+<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-208<br />Кн.1-126</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>1.Практика речи<br />(ПР)<br />Колинко Н. Г.<br />2.Практика речи<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-208<br />Кн.1-126</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 90</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>1.Ин Яз<br />(ПР)<br />Звягина Д. Ч.</td>
+<td class="sub">2-205</td>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">3-113</td>
+<td>1.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
+<td class="sub">703</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>Физ химия<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">701</td>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>1.Ин Яз<br />(ПР)<br />Звягина Д. Ч.<br />2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
+<td class="sub">2-205<br />703</td>
+<td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">701</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+</tr>
+<tr>
+<th>3</th>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.<br />2.ФЗКиЗ<br />(ЛР)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+<td>Осн микроэл<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">2-212</td>
+<td>1.Инж графика<br />(ЛР)<br />Воронько С. В.<br />2.Ин Яз<br />(ПР)<br />Шаповалова Ю. В.</td>
+<td class="sub">703<br />3-210</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">2-212</td>
+<td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
+<td class="sub">703</td>
+<td>2.Ин Яз<br />(ПР)<br />Шаповалова Ю. В.</td>
+<td class="sub">3-210</td>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 91</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">3-113</td>
+<td>ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.</td>
+<td class="sub">-</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.</td>
+<td class="sub">-</td>
+<td>1.Ин Яз<br />(ЛР)<br />Звягина Д. Ч.<br />2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
+<td class="sub">3-207<br />703</td>
+<td>Осн микроэл<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>1.Инж графика<br />(ЛР)<br />Воронько С. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
+<td class="sub">703<br />3-210</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">2-212</td>
+<td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>3</th>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>1.Ин Яз<br />(ЛР)<br />Звягина Д. Ч.<br />2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
+<td class="sub">2-205<br />703</td>
+<td>1.Инж графика<br />(ЛР)<br />Воронько С. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
+<td class="sub">703<br />3-210</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Физ химия<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">302</td>
+<td>Осн микроэл<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">2-212</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 92</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
+<td class="sub">3-210</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>1.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
+<td class="sub">703</td>
+</tr>
+<tr>
+<th>2</th>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">3-113</td>
+<td>Осн микроэл<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">2-212</td>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">3-113</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.</td>
+<td class="sub">-<br />-</td>
+<td>1.Ин Яз<br />(ЛР)<br />Звягина Д. Ч.<br />2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
+<td class="sub">3-207<br />703</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Физ химия<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">302</td>
+<td>1.Ин Яз<br />(ЛР)<br />Звягина Д. Ч.<br />2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
+<td class="sub">2-205<br />703</td>
+<td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">303</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">701</td>
+<td>Осн микроэл<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>1.Инж графика<br />(ЛР)<br />Воронько С. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
+<td class="sub">703<br />3-210</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
+<td class="sub">703</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 93*</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Осн элек и микр<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">Кн.1-127</td>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">Кн.1-201</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
+<td>Физика ТТ<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">Кн.1-127</td>
+<td>Электротехника<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">Кн.1-127</td>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">Кн.1-201</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Электрорадиоэле<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">Кн.1-127</td>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">Кн.1-201</td>
+<td>История бел гос<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
+<td>Электрорадиоэле<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">Кн.1-127</td>
+<td>Электрорадиоэле<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">Кн.1-127</td>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">Кн.1-201</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Электротехника<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">Кн.1-127</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
+<td>ФЗКиЗ<br />(ЛР)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
+<td class="sub">Кн.1-206</td>
+<td>Физика ТТ<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">Кн.1-127</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Ин Яз<br />(ПР)<br />Левданская П. В.</td>
+<td class="sub">Кн.1-206</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 94*</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>ОсА<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
+<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
+<td class="sub">Кн.1-111</td>
+<td>ОсА<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-224(к)</td>
+<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
+<td class="sub">Кн.1-111</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Ин Яз<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-126</td>
+<td>JavaScript<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">Кн.1-127</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">Кн.1-124</td>
+<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
+<td class="sub">Кн.1-206</td>
+<td>Арифмет-лог ВТ<br />(Лек)<br />Гаврилович Д. И.</td>
+<td class="sub">Кн.1-317</td>
+<td>Ин Яз<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-126</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Инструмент ПО<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-325(к)</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
+<td>JavaScript<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">Кн.132(к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Оперсис<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн.1-224(к)</td>
+<td>ОсА<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-107</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Инструмент ПО<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-107</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 95</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">Кн.2-312</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-<br />-</td>
+<td>Бел Яз<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">Кн.1-124</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-<br />-</td>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">Кн.2-312</td>
+<td>1.Информатика<br />(ЛР)<br />Бокач Д. В.<br />2.Информатика<br />(ЛР)<br />Картавенко А. А.</td>
+<td class="sub">604 (к)<br />2-206 (к)</td>
+<td>Рус Лит<br />(Лек)<br />Козлова Т. А.</td>
+<td class="sub">Кн.2-314</td>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">Кн.2-312</td>
+<td>Бел Лит<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">Кн.1-201</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Рус Яз<br />(Лек)<br />Козлова Т. А.</td>
+<td class="sub">Кн.2-314</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">Кн.2-312</td>
+<td>Рус Лит<br />(Лек)<br />Козлова Т. А.</td>
+<td class="sub">Кн.2-314</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 96</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Бел Яз<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
+<td>Рус Лит<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Рус Лит<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">502</td>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
+<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Биология<br />(Лек)<br />Макаренко Е. В.</td>
+<td class="sub">2-212</td>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
+<td>Биология<br />(Лек)<br />Макаренко Е. В.</td>
+<td class="sub">3-209</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
+<td>География<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 97</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Биология<br />(Лек)<br />Макаренко Е. В.</td>
+<td class="sub">2-212</td>
+<td>Биология<br />(Лек)<br />Макаренко Е. В.</td>
+<td class="sub">3-209</td>
+<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
+<td>Бел Яз<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
+<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">502</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
+<td>География<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+<td>ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.</td>
+<td class="sub">-</td>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>Рус Лит<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+</tr>
+<tr>
+<th>3</th>
+<td>1.Информатика<br />(ЛР)<br />Картавенко А. А.<br />2.Информатика<br />(ЛР)<br />Шавейко А. А.</td>
+<td class="sub">3-212 (к)<br />3-202 (к)</td>
+<td>ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.</td>
+<td class="sub">-</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
+<td>ДП<br />(ЛР)<br />Чертков М. Д.</td>
+<td class="sub">704</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 98</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
+<td class="sub">403</td>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>География<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
+<td class="sub">402</td>
+<td>Математика<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Математика<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
+<td>Рус Яз<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+<td>Бел Яз<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">502</td>
+<td>1.Информатика<br />(ЛР)<br />Гаврилович Д. И.<br />2.Информатика<br />(ЛР)<br />Шавейко А. А.</td>
+<td class="sub">2-206 (к)<br />3-202 (к)</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
+<td>Рус Лит<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+<td>1.ДП<br />(ЛР)<br />Чертков М. Д.<br />2.Мед Под<br />(ЛР)<br />Барсукова Н. В.</td>
+<td class="sub">704<br />701</td>
+<td>Математика<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>Рус Яз<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 99</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.</td>
+<td class="sub">-<br />-</td>
+<td>Математика<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>Рус Лит<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
+<td>Рус Яз<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
+<td class="sub">402</td>
+<td>Математика<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
+<td class="sub">402</td>
+<td>Математика<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+</tr>
+<tr>
+<th>3</th>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">502</td>
+<td>1.ДП<br />(ЛР)<br />Чертков М. Д.<br />2.Мед Под<br />(ЛР)<br />Кохно Т. А.</td>
+<td class="sub">704<br />702</td>
+<td>География<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">502</td>
+<td>1.Информатика<br />(ЛР)<br />Гаврилович Д. И.<br />2.Информатика<br />(ЛР)<br />Шавейко А. А.</td>
+<td class="sub">2-206 (к)<br />3-202 (к)</td>
+</tr>
+<tr>
+<th>4</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - Кол пром строит мат</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - Кол совр технологий</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - Кол сферы обслуж</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - Техн кол</h2>
+<h3>01.09.2025 - 07.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 01.09.2025</th>
+<th colspan="2">Вторник, 02.09.2025</th>
+<th colspan="2">Среда, 03.09.2025</th>
+<th colspan="2">Четверг, 04.09.2025</th>
+<th colspan="2">Пятница, 05.09.2025</th>
+<th colspan="2">Суббота, 06.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+</tbody>
+</table>
+<p><br /><br /><br /></p></div><script>
+var params = window
+    .location
+    .search
+    .replace('?','')
+    .split('&')
+    .reduce(
+        function(p,e){
+            var a = e.split('=');
+            p[ decodeURIComponent(a[0])] = decodeURIComponent(a[1]);
+            return p;
+        },
+        {}
+    );
+
+console.log( params['group']);
+// выведет в консоль значение  GET-параметра data
+
+//const container = document.querySelector("#test");
+//const matches = container.querySelectorAll("div.highlighted > p");
+
+
+
+
+  let content = document.getElementsByClassName("content");
+  let h2s = content[1].querySelectorAll('h2');
+  let h3s = content[1].querySelectorAll('h3');
+  let tables = content[1].querySelectorAll('table');
+  let ps = content[1].querySelectorAll('p');
+  console.log("h2 " + h2s.length);
+  console.log("h3 " + h3s.length);
+  console.log("table " + tables.length);
+  console.log("p " + ps.length);
+
+
+
+
+
+</script></div>
+<div class="entry taj">
+  <div class="content"><div class="mgke-timetable" style="overflow-x: scroll;">&nbsp;</div></div><script src="https://keller18306.github.io/MgkeRasp/bundle.js"></script>
+
+<script>
+	KellerMGKE.Viewer.init({
+		input: "#mgke-json-input",
+		output: ".mgke-timetable"
+	})
+</script>
+<!-- Данный блок данных ГРУПП скопирован из конвертера -->
+<script id="mgke-json-input" type="application/json">
+H4sIADH0u2MCA+1d624cubF+lYZ+JQtZmO65Sfsqi/2xyTHOCc5mE8ReBIFhQBfL3sDZWDfvCvZIo5FlZM8P2ZIsWWNJll+h+40OLz0XNtlNsllstiRiEUfScIqXKharyKqvHs3899/+8uNfH8x8/Wimi/8hv858jX6Znfmv7/6BPvjmEf4B/amxMNcI56JG1ESf/f3+/f+lf4778XX8OT6LT9H/LpN/oZ+H8QVq8v39Bw/+8gOm8O3j2RGRsCEmspEsx9fJouTLofjLA/RF3P9R7hcj8Rf/E5+hfk/Qv4vxB+bLj9Kfcau1ZDFZReM6QRM9SSeKx3mGvvHwH3+9j9u8Rn/D4354/7s//s/9v9F1OUt+ii/Il46CeHMuiLfmUJM/fveHP/1w/+HM1z/8+P33eIwuejqIf41fIcq/FlP+JVmZ0N1HdN9J6PbRSh7FJwHhyIcAff1LsljcxwFhwjBZGvXzDvWzzvczzc9mjigmLxAptGLJ04wwIIY++PEPqXSHs9yIL/AQ0FSPyMiTZ/GQGfQeO+RXaKiXyXOy6EPUHxr0azToHeHiTPqNTPsdEGYco75fBPF71OOhYJlm79Jcp2VvF4nQ5yC+IpsGb56P9GfU7VGxCG6iAV3HV8lz3CeeWxC/KhbAVp4mWkFDPkaqbJnTRujrM/PTOnb+jutYow0NwIxWOM0N9BsgO77J3QuHcS9eKxL8dbRVjvFyBfEaEsRtRhBnontRGM5kJJ+nyYm4EtUC1bGPvrsaoBkPEaEP8edilXGEdt5l8u/4Iog3UG8DtrfmvTBszRToC53ONrB+Qjz+ie7dHurugOuu0Qx+h1qhJfj9TKGG7GFOEm3wBS8VGUhx/31C9wLpniHWPi+5w4tMN0T9X/y+aM79eDeIhwHuN16Ld4u63CSb6ShZmqzwBttlm0wYd/itkWIAFrKwsVAoZMZ7g3aQu8b0hEh+JkfLZ6zyyYE0LO7yGokgUnzkCyeIAjrB8Jm0y52CZADz2c25i/4bFK/bVnyO/nhCDqsx/T1+gp1GVLh+GjIEJbaWt2rpkylfAW+ioZ7SZSJKHBmrS9j8TJaLxn6A+0AHChECoVZDau/zXHSvFXaxDXJECGZ1jcuBPNLvWmSrF3dODcF8CXW5+A4HAuaLKpxPAvdQstUFblyBIoGgr+h+riF9+BQ1+0KX+6WCA1qoj4Se83KygtZwpNqH8SeqmQbVeaCAWlvmiAEaGSIPDOyok+kRQHNUsmT6FqHqyn1TzaFKe4PwlyLGX4og/SXrOo41Z+roAFgQtGk/oF5mYy29nfwVcuI4VLAP7J35+f1A+0OlXQRI51Z2XlV4xps50dI7ZAsKsoYnMLyhBOYCQBtZJezyN4SX44eh/PeA6ScA7F6tUmMF6cVh8gLiTt6212LJ5AfYo7NVWo+z8Lryke7xKuhE+YCtjzth2ZKAM/abjLHftGXs99Oj+ZS4+Zd085K3wqkVybwfZvmB345xX+ujO5kthVfqW9sp2IW/Z41N1pQ2VT1bbLLFyDTzrLHJGm37y7OmKtaUNTJajJHR8gExbgNi2gw72p4dbtnRYdjRsRaflHFNWc8E+feYKR+w9zGlQF7FfePrznwvaQcNYxdNYzvuFfUJG/sj7rQPHt1U4QpnHXeljs1c7TFzb8xCg9zcwz08cJGzaPgBnUmyTH69NL9t1d8HnDgas8fiJn8k7UYg5KoTyl+5bcTb9/F5QNmWPCmWbjwtHFE9vt/czPYXNbomMVA2VkF2kwYjPNInDusatKJdcgMmWoEWBXghwSRmnVo1UAtpPIZZB6eJNVVj7QHGkQ0Gq4dLvN31yeY5i79g34Dm9NBHmp4dF59JK2x1vU/p1qdkMpBa89X4lOZXUjtoly3Gx8kK5ida2WHyDL8HI0tLV/+ZjWNAlCZZgeQZeV9/QXdnTz8Tz6+IXxFbAWtevvyK+BWR7rjyKUV+Jb1s+RXR223a1rJfTS9ffkUMdhwwToqXL78ifkWshNsuMPcyC/6aDCbsy15CQ4+GjF+h7+CM8Mt4qJhDr5dzPFtN9jeACLcb0yKMfvMiDCLCt0vQ7MEAQIgwgwjVDm0lPbzBp1p6JtEfMsEChUcTeRhCx+Tk8WlHnHM2e0f6BMt48HyxxpfSgSueJ9Z4YpTr4PlijS9G5oLnizW+lLUqGNyUduQNY6chEG0ms7Xd9Oxwyw4mB6jtc4Acs4PJAWq3PQ48m7pPfOnnyANHDvEZdsrRF5FzDA+HUEVH9YnUrCZEspIEGHFGpiTsFuI2pcyljSJ4DYBeYZLZ2h2vV8Z8I28NuNACua1bRJseg9isx1vFrNtA8vFp+plkW/w84Qih0UI4cv6Dj2pnZHfgXfhlsmz4PvSlpLPmrK03BTY6/Jqiw+Dka6QuPqLvn2ORnXSUPLkXn5gWLzDSzjbhp/pYb1HVPFaViEGy/tSUGNPTHto859RtHOIHwlNaZ6IXv5F1dYRv4NEKTd2mb9vRmEzkfNtHzjs2jJnI+bYv3uGYHcyDeXvhK88Pp/zoMK+/nYatp7NDpH634/MpLY2N+nNWS78lUSRn03Y6NqD388pF3GDyXlT1RZV55e2AvvKSNNTJP8W8pzbOkivuWxLMZiO0J/X2id/RPcG8UXSsYbsfkEuNFRJXtxygXxUcqX005WUa+oFLA65pInvuxodFOAz7RDSOJuUHX/I406OiHo2FqaIeEozP9P6OIDx8DOIPTBnEPl/tTuFBio4jvNcMF4qRbG7xpB8VTFMoO4oTDe+FURfNj1PbdiTWElyMC8m7XVIQhdHMY9v0LVS1srXwCrVKbOkaG2w2j4GxuxKCO0FLE3diZTBP751mNRU3t/GV8nvGROTRmCbrN9kNa7waipAGanEV/pJVEmyCi+Omd/mnspKzO/iKF63xGWXYDndMEPinrP9ot6dql9DiEbhWNE5Sww2N72z0ALDFr0irESrUzVFZlXWqYKfraL8UciBsyKwr0Fm5kt8lWekACp22TEQpzbvBQrSbLfkDVfnFyuRlXgmY5ChUGzAVG2nWV1WTAVRCUqsGvC93twMFV1JS2RfeUKlJP4S5wISGdVrVgBVJ94yahuo02jnKFlIFVkfa4hFhZAlIgP9uMjdvhVVZh7i9arScWViFbJCCW21FM+RWdQNxrDAhrp12NcdKDymAZRLJeTSdk5CnltZQw2MS2fMRR4PtcBFRM81Gc8bQWuqRalfp0wi1/wTOSYQ2crvYEwJ2T4pqAdpYRW2drjkdA29V+3gCexIsXmphmq6qyFbQiZm7onmXUbm8WsAwg/Z4KtBMogrk9rz5arqxdDd9Q9f8FoqrJXgmsJue6nSZQqlhCx1Wp5du68QgTHAmG6TTAQ/B0lIcotQiKANArTtNQ9zIgnpFQtiPSAg7mdY+lwAhsqFMVIFyl9/avAqqmPNW1qhVEftb1oIUzL2dMg8S5Rmtr1vL7m+haQXhigIblqGlFyZLE3dguJd7o3G+byqwISuaCSiwmHnaoU7JFQjriskc69Qnc6yq6HizQG4fFy9bzpsX3s4k73V88p5jdjDJex2Pdgv0iKgQKtrDEANop6fVNNcUcqVJaHGal01O559l4BUlOknRKgKKXdFDykqSia2D0Mz0NMDYqQGyAU9wPD8BDsPUZWiqA+JkndEg66KEfvPt0WVyKbsNj5UxZt5bNCYkiMkLmZN7TTAILqnwybyCdUSVFJlFTho0bRsOOjSiw3HyT7TuS2T9rwlww6kEBkEJcyKTR4PBLBTmj/90nDoaQ+KoKeEBWltnphcspYtU36A+zmQILddknT6jnUjWaWANXqfL5LR2Q68yTMQb52+tpkhRqaebJ4JFPmhx4pgAygUKDEe7Y4WEtYzCJPrvNf6aVFvicx1L/36Otpw4hHdmMQHB4fW1HjLnvpC1GQv3APqMHJAFuMK6ey8HIE3z+raaePLX2lXaJVhRSn2UjSMve1Ywud7dyJ8VE1go5LgsKek1mjyJddsJtiOoaOxI0dfcHEVICpMnZNHz9AQnkkTjpXbYEYW56mtuLr0uf8MeGeru08RnrDB8woqaBz1VysDJgR7TNXPD5EcMhKpkEla7dx0r+q7YZ0XYj/rz1ACdrGj7biIK1xgeAKnmJ/Kt1ifjx3i0p5T+tt3TZz21TQlA71Yuru/tOHm8tVuUoenG17Fqp0EcS0xiZLflLXj7OtP2/SX0HTToWW0eKGH32HR5Fw7loflTwP0pAKGbmezCri+gUeMnoAEdMOLoZ3oIDCCVNA76vEgDbNK99NJy8a/09JPHvtbD3Yc7qiE2LpOT0PUVKqrcWLf04tU/W+XpKdjHpGqFVVEdviUhEs8m2n9b5eokqv3zERNd3O36O1Goey+1iyjAmy/VZ55vrd8eWt/A9Xk3cuFL6yQgzJYxKAW+qdqlh6oJWLKD2t/kMYHp3XlvdN6UR4oboqzhDWtoZxV2898lVQ36TKkbAnjzzGxLcYZeSKA9jJAtFop+9dW93CZshWwxQvSr54hjjrAF19CvX9mq2fMGm8BfSNr8RZowlTyZzuGmH02fApoZprzuv8V9ggH0eb5Y40vpfHHPE2s8MXImPV+s8cXIB/R8scaX0oZFyBoWYT0Ni3VcLD15Qa7pLnCECvJgbDKhnv3Vw5jwvKiHAeH5UB+jwfOiPoaC5wWYcRCxxkFkzTiwVLWDlJoMQlw+OwXMhzpBrdS84IY7W32X7p8CN+i77Qh1I4hPgjSk96lMIAZkopj8+JJ8Q326RipLbdQCFumPedZRvyAqpcmqlKY1lTKgixAkq2ovSzvE7zpOVuibB40FeMW9uo5L+3IYfOSNN8DPZDh8VQYWcxR/mu5omy/+MK5ULWK77c7AFOUBfgJER9nTuQyo2JwhqhhbyZuHMMN9UKgvCstjrTsIHDaGOohrAV9rBSB2q0QfVpgpQqQDAtMDOwYJRh4Gx0P/p4CNTLYZeavdUHhtt0qcqU5OrdwTmWQckDUZTopa4xfndWmWnhIi7y/ToST74hd7wDiXo/g8Vczo7Ij7loANt8dV32nElHzzqQKUsRFFONo4wJt1jJ2oBthYHYBiyFYORb9+5QPrTOI+VPaLAzQ+lfD4ARn4MZotIvoeET2siCiY/rCdNlcN/qMV5MTqkTZLaaTH424fYL2UY/SgTxQMIyuekUqtkrE2nQtIzczyZf1YepGYXsV1DJlyoOYVC4HIaa+UZecg46Ubb8ZCevXA1DZikO66SHaaDXIA5hYOgSW3kOQqAZuqW7w241v4AEKXAYQ5ccsc24SxzXeZceL6JUWO52gDtkKZ86pmmE9taIL9Y83u1B9OF36G8+U9/hGZdsOcBtaenaKkAvh5QuxyfPlwjKWYXk9tZ3c4/7klE/MQnVVrnE81dXKyuwMXOwz5mjY9YVUw8QYbkQCzJLW7DxsL0hlkTmgxDaBaRpLhR8W7RM7ByN7d5/QNIvJUV4nNc00v1Yp2flv9YtKMLJjalYuINp+kfAbSNDnwVJzGyYWxqlGZskcqBXSnD4cm65kh3dMw2LgAY1C62lKhUQ9HLPdebvoQbZa82ys2qfRphFVtsfSCT7rFxheB3ueyn7rM5PPL4Q/E6AoMwkp5DIUCMjAieUZwfI5H6Hr4NWhNrPfzW3qxdHoVsE4HlbKFPBysifVKXjvPQMcMxEhap+SKjcGB2qVvrFk2Fre25gFepLAqV/SmMiBM/IDHMaW4XpEH8ml7t8O5RPOcW1WCdARJmjOyASnvqQwaMI41Da9hRzdUd0mEs9UmGwmd4XlImxpGbEQemFO6PHs69hxzmF0NtIbyuRq65q41WKn7Ddmu07sGKrWRbV05iPIeuMNOmBtRk4zGTJ4laIaIM9oOsxJv/XpWmFl469ey4uzAW7+eFWf43fr1LH0uCgooZU5FYYkl/6wvuHVXQGmcvvntSG+PNQk2YbcchHzlpQ+xMpafZAQmZ2J+FSVB5UWcGeZWKZO94bHjgzTNFKfdrKCfnpNEgPV4q8hH6dRRgockbu6YhVQZ8DKc187feDpmIKkfMEq96olcP3EbS67fDnLhd9F3tuOexo1j817YaAa/I7jFx1jrcBotzcs6RZ0fxR8kN4NhIXHYR/EbNuEb+MqotRKRamxa+fUFs0/z0ju47ZuTBOI1b0npEtlLKjmD6nH/8jSfTFYeCK1uw5qcLpF0zCGb/jYQyWpeSy+vTi2FTZLlxZRge51ln7iNZ1wNGDck6XnD+BM14LbFrONbeeaZnRLcUbFH0tjJBdcQBxyd0uzXnjDvW9H3Ky8aZ7TqVfJvfOm2ITIfxG1sXj70RmAmeJECamjpWG0zbWK9crcP/Xh3nG+/Fu9WSzDMIehmU4hF03ThedOj9JLXKGC2NJcFy4GXlb7zUpStZfyHXjzQ2/qmTAuNKWqF8ZfWThRBi6BpkYvP/hwuXZjVTzmt/MHl1uoQQhvwrBPBH/j3k6xm7idLaTm1omKfqqEn1zT0ZAln6QQYFyE+x/PPz6trWwwGUoXNKPBRZ03oyf1nGqmTgu5gdn+kP6einztQK0pxi5SGPiH9j+/S90QWfVHLWqUIcdK+i/4bqCcIdhpRNkhSRiDiCbh/FNIbtUjyd3UtCcBdvGtkxeix3NpuIp7voegVtqilNzWcmhpbeDmSp2MQ3izj2E89s9wyi4Arj3EeOXOe/9zbg7PqMGZj40NyVqyl1+zj0ONCgxIaHgNCkH6hyZkjVbwh2vviNl4DuGWcAAQxwzYhTKLHnSwJiiJ0cEoh73QB8F9kEGVOZPJXHGNHZW7iKwnfSYpaesXimIknyQt8OUJTanE47n949onaeMY5Ztw4iZZe4Q5Eh3leK888p8zLQ39lmZePEQv7jih409LCGe0A44x2gBFZNecnH1DLDJdVQK4mfpIucmoLFIlVEkkFFEtgPCboFYNSKFdoj4/DDQYiZZJtYTMgQRyi2y9OD8dRtGFr5nG5oNFQFJTLkTMaWPVhzGprJKYkAYYQzKl0hmeZAfC7qdSCQJKx8AyptjKyZPrS6wv2WuF4HkAqwZBWZEt7p1XSFiX2fFFLb9NXALrO2QchqAXUBKXWsiStQxIGcZmsj2owbfFyKmpjKf2pn0rTKUELvxxnRDOYdPmp0K2mNADtZpEHg8DwC2sBC8MvqiVQDL+wliw/v7A2DtFrEhxzmYNYyn/uH/NGHH1bUEJX9d5mHdFQCwy1ciulPR2JW6VEI7ImyZfkbWgckLwpkma+Tf0CKoU5qu9x6lGfx9aR3hhFje6NzwOXIo5HAMjnEQDyeWQN+ZwIb/KcQDmkT6CvRdC2+e28Zw5mh0wd0gEeavKsGB22KzcOzEkCSRlNHxoVpRDJF9fCS5bjd9xrnOaFz7T9HCsu87m34nRrB7RgShA0YciENmt1q1RkaMPMI4IhYyeJ8RVNnmbjxYRVAYpaWrptlBayibiCPNG9JvdiJzRoJGXfxoT0K/TkDsp6tSL1WWmXC2rLJlT6kk6/e0WTVamwnxlnwWjYwbQss67VuTNNAHemCeDONIXujL5L1LGloJPnGLxJWGUt+6k3Ut0aqTjuHQ1sHEb4Tuhd5LTyzHPPPLSax3RmNGy+L2SeoJX3NsphH0fycsL6BOfrl8KB7REqM+MrK2FRv/x2XsI0cwzbsnQgJSpWS2+rjEAe+6s4Ezvoia9J3jlGCyLxrkIzRdzGn3euNVKykiwF8S85eoj51DPLMbPwkzpGd/gXx6jJJ55JrpmUrCIT5RlRd0e00mKf31niVp55TpnXIzHJR2RmabSv8CzLb+fyFjR7Pxc12vq3oJHgvpAQciNPZotQ6pYwEt4SQrpGpWZR7hK6bTmaxhJPdCdisuEv0o08hQi9Idrw4nYe+oWXTI1or3b9vPQeLneDeP3TBOKHlwdhm7rIAuMXoukiiU2ezqWwriSy6uf4cq5UbaNuXq1fjKl+McLrASG9H+/Gh2UpAcMOG09TlAilN70awQ3Lht5ZUESrnBJHPXIQ+3yH6PNjtJOnCpe9ElnrRS0tGXwDknX2NEBegjzUNG8nRI1wZro2TB5wq1HENg7FnLcaE+6qB8goV7/0pZe+pPr2y2627Aa2oF96s6U3gN7wS2+29OWNibP4CvElvc4TwryK21gyIHaTVbIM+PUwreR5yjwN0eoOS4wZEfFmRIAM6oaoUKq0A86Ma3IJGwu1pNkS0QRzyKTjOUSsObfHFsvk3XHINtdL31sarpnIf9Il2LZPEA5jXl9zdVq1XzCbwPa6W954uepPUCAjdjKLd3GkDpZnPJocGBlxG//W5/Sat08GdUbezS9poBW9yOXqKhS19AFZpTGf5aHfZUiGAPjPc4GsFkiZkXWUEK4hZgwYnKY3HIVAzjIk58152uqY0xA/DOd42zDzhFJ0y8kKKc11Mqk00BPBVha39W+dZQqta1UJMsRSI8O4Qqt/SvILhgEpyrZUmFXYbigopnKkWwvWJPqnSfmFTREkmriNP64n1VUWydvSuP6cSu11WcEWCJI1MAyHBPUPsT2n3rCohbfmHTPtkhy4S9Q6x8E56zzbRG0s3b9qV6jNFPzDaMGhqKKzZjFdDkY1n7JqFWENkiUGG+ZSBgVavMZ1RccVjnG4Um74mQDHuexky7G8iDHwFMsxRP+VFkT0jItNh/Blvc1kQlafW10W5JW+y+8Co4FFFsETywo2RI3xhuGC66J76wuXLXv8Gs0JH66nFHlnmz96+RbeFh/xcRMRv44/kIjSJ7KIWclliBatLiCtZh0tefIR2h3PMNex1AnQEvNaeYu+Bsw7w+mHezkqJfO5Z1gNGHZNIC3IreGW+IZR3Mozzy3ziBlxQfAOxyHOPVGZtKKW/kgve/2fA4RUqgRqBP9+JYaMrYfU4g9J9YvPIzS6XaHMCttZi75bitcKUbfYcKNOox0Io61YMpKgpXYjsk1AlnU6mQgs0t2NWdAmTwAoiEzGiE6NsoU0+RfJgflM519exayQVO9nVGXwZij3ubdkHJ8JK8li8hNZ2ZOc9E1xG884p4zbw5djfPlkzl/Pb+cZ6JSBA1Lz9AjtrDE2sBDeLL+dzQqpJOmUhLU8Dwiq2scAX20VHimRKKuyGS6IkqDhSItjTN5gQU/TXegPmQIZuVkvbclF9w2hDJiBcfMkwYuDlepwxvzKhgB6ZkmZZSex1C+x9QRSv8RgRhKuU3KCfrqkps+O2ETiW/kL1hFj9ygypWnlDVUyHRgyNQQlHpB8ZLzY47wWgcUuauOFccT+DTbeNYhPgrRu+FOzjGuwuBi1EZrlBlvqA0rIL8kSpQ4nxtt8JxJzUSt/r+BcQ10RqUqD+V+Lj0xxK888AKuQOevwM9o4yO4aH3FB3EP7+o0RHtoAZ5MEyNo5wS+SY9KF56klZLABXUiMnEej1QYCYeNa+ONwEpd4RPIj8ko16NlWmtTaoNS6lvFTnS7VvKXdgw2dYyTa6AR9j/bGIb97+BY+t3BWrbzbnlZZiHIk3NWQjeBryEa2asgOaDT3tggzgP3M2yCODchrSn2SD7orwunIb+cZ6JaBBHj1CjNkT2j7c597hgEVyVVG8u7IStwqUwoV4iA1yEV2lD/J3yEyQ6p4kKDCDeFRUNAS+sHbMgZkZB2h0VUPtcf6vRtLXzus37ux7LXE+r0bS294PB/F5wFJg1oN0BnR176BE0PZYKeRpJTKrvVESP9eGEoLQ1ljZJ8UKKDZDWlIpPAdL7+dt5edOjgTxqR+50tRrHleK5thk9laH3zihSB+LbrXaiwE5BoSA0Q9rpgip6UipToxBnaf+WiiMAKZFaEDB8xRzKzIOrNg0Tg0Z6NftKcT1S/AY5+gVV3jRId3olsv/nNLSXGypEOV1ZQanRCd3LHc0wgeiTUSI7GCoGR2LNGtEY4qhnWNYDnSFOOomm4ntW6g1Ngq0TfjtJ8dsY2b184/0I/D3uPj5J8YO4O0TdEaTa9ktYlahIHSHkvLxgRlZRx06XWtbawUKZUCOWyLtlS2hXcYHRt11/E5hSvCTuABz7Ls555hThn2hsCOXhSGMIrb+MgYfbT3yBztvSlEUXEKrQ8wK0sIgAeE7ReTa8UtkaeZ18p22m8xcAgLYNJqhKWAQ/KogGatFgNgNMtMRJ0M3KWS5hjkYCCa1ZYMy1PJBKpjdfCGpaK0dkOeIVxiCcC0DKlnTizRDVFktrjNjT9DWVjOIYZRxQH4KYKJsBRDZk/J4G6dUtVDLi4x1NDKAoipAl5Xk3ddUnvDsNZ8eULOLecDslbDyavXOxG4f14rbz3PFkOh0Dfsk8JMAbmE0VfvExKNHX8IEE+/MDAKN6DuxwHi2SV+2UfUp95XN3hJy2vnXWynDHxLnsfP0sJVJIETM2Y/y8D8dpYevg6RvGwzORhcvUsGOn4mwtmvGcO9zkQE1TZDKZny0Axhp/GVLdiHymmDOYgKvM2U8miE+uLhhIRAvroSIl664FCSFHjaNRcLSyQAYWxurWSAxP/6NbaPyeTX2MrF0lucPUaTc/BZQ/M2t3m7UdzKm/3ACBNv0dSuDPPNlGjYiVTBa7WIPpx6MOfKk4rbeEly6kD+Ri5CzuJPdHuvid6wxG18aNEU4EDyhIwuD4Qic4EqK0KlT3AekmBOxKEZwRrWyvqNwieNIoG3RTdf4jZeaTll3P+hBkQV7YpsluynnllOmXVI1vKCRa9fEwVwFbX0THTHRMTFh3/68/0HD7/7M9LmYafbjDpRGHUWwvDx/wMB+qIQZCkCAA==
+</script>
+<!-- Данный блок данных ГРУПП скопирован из конвертера --></div>																		<div class="page_share_buttons"><script src="//yastatic.net/es5-shims/0.0.2/es5-shims.min.js"></script>
+<script src="//yastatic.net/share2/share.js"></script>
+<div class="ya-share2" data-services="facebook,vkontakte,odnoklassniki,gplus,twitter,linkedin,skype,telegram" data-limit="4"></div></div>	</div>	<div id="panel-id-ass" class="col-sm-4 col-lg-3 aside">			</div>		<script>	if (document.getElementById("panel-id-ass").innerText == ""){		document.getElementById("panel-id-ass").style.display = "none";		document.getElementById("main-p").classList.remove("col-sm-8");		document.getElementById("main-p").classList.remove("col-lg-9");	}		</script></div></div><div id="footer">	<div class="container">		<div class="row">			<div class="col-sm-8 col-lg-9">			&copy; УО "Минский государственный колледж цифровых технологий", 2025<br/><br/>
+
+<p>
+	Администрирование сайта:&nbsp;<u>Картавенко Артем</u>, <u>Галицкий Максим</u>
+</p>
+
+<p>
+	<b>Адрес:</b> &nbsp;220108, Республика Беларусь, г. Минск, ул. Казинца, 91
+</p>
+
+<p>
+	<!--<a href="tel:+375173741162">+375 17 374 11 62</a>-->
+	<b>Телефон:</b> &nbsp;+375 17 374 11 62
+</p>
+
+<p>
+	<b>E-mail:</b> &nbsp;mgke@minskedu.gov.by
+</p>
+
+<!--<p>
+	Регистрационное свидетельство ИР №:
+</p>-->			</div>						<div class="col-sm-4 col-lg-3 bonus_menu">			<div class="search_field" title="введите текст и нажмите Enter">
+
+	<form action="/сервисы/поиск-по-сайту" name="site_search" class="search_form" method="get">
+		<input type="search" name="text" required="required" placeholder="поиск..." />
+		<input type="hidden" name="searchid" value="7926440" />
+		<input type="hidden" name="web" value="0" />
+		<span class="button glyphicon glyphicon-search" onclick="document.forms.site_search.submit();" ></span>
+	</form>
+
+</div><div class="social_networks"><a href="https://telegram.org/"><i class="fa fa-telegram"></i></a>
+
+<a href="https://vk.com/public179671335"><i class="fa fa-vk"></i></a>
+
+<!--<a href="https://www.facebook.com/"><i class="fa fa-facebook"></i></a>
+
+<a href="https://www.instagram.com/"><i class="fa fa-instagram"></i></a>
+
+<a href="https://twitter.com/"><i class="fa fa-twitter"></i></a>
+
+<a href="https://ok.ru/"><i class="fa fa-odnoklassniki"></i></a>--></div><ul class="level_0"><li><a href="/работа-с-гражданами/электронное-обращение">Электронное обращение</a></li><li><a href="/сервисы/карта-сайта">Карта сайта</a></li></ul>							</div>          		</div>				<div class="row row-eq-height">			<div class="reg col-xs-8">				<a id="rss" href="/news.xml" target="_blank">
+	<img src="/files/00009/img/rss.png"/>
+</a>			</div>			<div class="text-right col-xs-4">				<br/>				<a style="float: right; opacity: 0.6; color: #eee;" href="http://веб-мастерская.бел" target="_blank">ВЕБ-МАСТЕРСКАЯ.БЕЛ</a>			</div>					</div>	</div></div><span id="scroll_up_button" title="К началу страницы">
+<i class="glyphicon glyphicon-chevron-up"></i>
+</span>
+
+<script>
+	$(window).scroll(function(){
+		if ($(this).scrollTop() > 200) {
+			$("#scroll_up_button").fadeIn("slow");
+		} else {
+			$("#scroll_up_button").fadeOut("slow");
+		}
+	});
+	
+
+	$("#scroll_up_button").click(function(){
+		$("html, body").animate({scrollTop : 0},700);
+		return false;
+	});
+</script></div><script type="module" src="/scripts/cookieconsent/loader.js" data-mark="auto"></script>
+<button type="button" id="cc-floating-toggle" data-cc="show-preferencesModal" title="Настройка обработки cookie"></button>
+</body>
+</html>

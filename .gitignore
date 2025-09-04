@@ -1,0 +1,5 @@
+config.py
+raspReader/Config.java
+__pycache__
+app/__pycache__
+app/database/__pycache__
