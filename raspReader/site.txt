@@ -97,21 +97,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </nav></div><div id="body">  <div class="main container">	<div class="col-xs-12 breadcrumbs text-right">
 <a href="/">Главная</a> &raquo; <a href="/персоналии">Персоналии</a> &raquo; <a href="/персоналии/учащимся">Учащимся</a> &raquo; <span>Расписание занятий на неделю</span></div>	<div id="main-p" class="col-sm-8 col-lg-9 article">																	<div class="entry taj">
   <div class="content"><p>&nbsp;</p>
+<p></p>
 <p>&nbsp;</p>
-<p>[Форма: Расписание всех групп; Расписание по группам, вариант 1]</p>
 <h1>Расписание занятий для групп</h1>
 <h2>Группа - 100</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -129,27 +129,27 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>Химия<br />(Лек)<br />Филипцова Е. В.</td>
-<td class="sub">304</td>
+<td>1.ДП<br />(Лек)<br />Чертков М. Д.<br />2.Мед Под<br />(Лек)<br />Филипцова Е. В.</td>
+<td class="sub">704<br />303</td>
 <td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
 <td class="sub">502</td>
-<td>Рус Яз<br />(Лек)<br />Самохвал Н. Н.</td>
-<td class="sub">404</td>
 <td>Математика<br />(Лек)<br />Сергун Т. С.</td>
 <td class="sub">403</td>
-<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
-<td class="sub">502</td>
-<td>Бел Лит<br />(Лек)<br />Барсукова Н. В.</td>
-<td class="sub">701</td>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-<br />-</td>
 </tr>
 <tr>
 <th>2</th>
-<td>1.Информатика<br />(ЛР)<br />Картавенко А. А.<br />2.Информатика<br />(ЛР)<br />Гаврилович Д. И.</td>
-<td class="sub">3-212 (к)<br />2-206 (к)</td>
-<td>Биология<br />(Лек)<br />Козел А. А.</td>
-<td class="sub">302</td>
 <td>Математика<br />(Лек)<br />Сергун Т. С.</td>
 <td class="sub">403</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-<br />-</td>
+<td>Бел Лит<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">701</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
 <td>Математика<br />(Лек)<br />Сергун Т. С.</td>
@@ -163,14 +163,14 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">404</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
-<td>Биология<br />(Лек)<br />Козел А. А.</td>
-<td class="sub">302</td>
-<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
-<td class="sub">-<br />-</td>
-<td>Химия<br />(Лек)<br />Филипцова Е. В.</td>
-<td class="sub">304</td>
+<td>Рус Яз<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
 <td>Математика<br />(Лек)<br />Сергун Т. С.</td>
 <td class="sub">403</td>
+<td>Химия<br />(Лек)<br />Филипцова Е. В.</td>
+<td class="sub">-</td>
+<td>География<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
 </tr>
 <tr>
 <th>4</th>
@@ -204,6 +204,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -221,17 +236,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 101*</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -249,46 +264,46 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
-<td class="sub">Кн.1-224(к)</td>
-<td>Информатика<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Бел Лит<br />(Лек)<br />Барсукова Н. В.</td>
 <td class="sub">Кн.1-129(к)</td>
 <td>Рус Лит<br />(Лек)<br />Козлова Т. А.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Бел Лит<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Математика<br />(Лек)<br />Гвоздик Т. В.</td>
+<td class="sub">Кн.1-224(к)</td>
+</tr>
+<tr>
+<th>2</th>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">Кн.1-224(к)</td>
+<td>География<br />(Лек)<br />Поклад Т. И.</td>
 <td class="sub">Кн.1-129(к)</td>
 <td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
 <td class="sub">Кн.1-129(к)</td>
 <td>Бел Яз<br />(Лек)<br />Барсукова Н. В.</td>
-<td class="sub">Кн.1-129(к)</td>
-<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
-<td class="sub">Кн.1-129(к)</td>
-</tr>
-<tr>
-<th>2</th>
-<td>Рус Яз<br />(Лек)<br />Козлова Т. А.</td>
 <td class="sub">Кн.1-224(к)</td>
-<td>Соц ориент<br />(Лек)<br />Бондарь С. Л.</td>
-<td class="sub">Кн.1-129(к)</td>
-<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
-<td class="sub">Кн.1-129(к)</td>
-<td>Рус Яз<br />(Лек)<br />Козлова Т. А.</td>
-<td class="sub">Кн.1-129(к)</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
 <td class="sub">Кн.1-129(к)</td>
-<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
 <td class="sub">Кн.1-129(к)</td>
 </tr>
 <tr>
 <th>3</th>
-<td>Биология<br />(Лек)<br />Козел А. А.</td>
-<td class="sub">Кн.1-224(к)</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-129(к)</td>
 <td>Бел Яз<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">Кн.1-129(к)</td>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
 <td class="sub">Кн.1-129(к)</td>
 <td>Рус Яз<br />(Лек)<br />Козлова Т. А.</td>
 <td class="sub">Кн.1-129(к)</td>
-<td>Бел Лит<br />(Лек)<br />Барсукова Н. В.</td>
-<td class="sub">Кн.1-129(к)</td>
-<td>Бел Лит<br />(Лек)<br />Барсукова Н. В.</td>
-<td class="sub">Кн.1-129(к)</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">Кн.1-224(к)</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
 <td class="sub">Кн.1-129(к)</td>
 </tr>
@@ -324,6 +339,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -341,17 +371,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 164*</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -369,61 +399,61 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>ИнЯз Проф<br />(Лек)<br />Левданская П. В.</td>
-<td class="sub">Кн.1-206</td>
+<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">Кн.1-322</td>
 <td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
-<td class="sub">Кн.1-124</td>
-<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">Кн.1-317</td>
-<td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
-<td class="sub">Кн.1-208</td>
-<td>Сис авт проект<br />(Лек)<br />Семенова Л. Н.</td>
-<td class="sub">Кн.1-206</td>
+<td class="sub">-</td>
+<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Техн марш ИС<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">-</td>
 <td>Оптимизация тех<br />(Лек)<br />Стешин К. Д.</td>
 <td class="sub">-</td>
 </tr>
 <tr>
 <th>2</th>
-<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
-<td class="sub">Кн.1-212</td>
-<td>Бел Яз Проф<br />(Лек)<br />Барсукова Н. В.</td>
-<td class="sub">Кн.1-317</td>
-<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-322</td>
-<td>Бел Яз Проф<br />(Лек)<br />Барсукова Н. В.</td>
-<td class="sub">Кн.1-317</td>
-<td>Сис авт проект<br />(Лек)<br />Семенова Л. Н.</td>
+<td>ИнЯз Проф<br />(Лек)<br />Левданская П. В.</td>
 <td class="sub">Кн.1-206</td>
-<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
+<td>Бел Яз Проф<br />(Лек)<br />Барсукова Н. В.</td>
+<td class="sub">Кн.1-317</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">Кн.1-317</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+<td>Техн марш ИС<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">-</td>
+<td>Статич анализ<br />(Лек)<br />Стешин К. Д.</td>
 <td class="sub">-</td>
 </tr>
 <tr>
 <th>3</th>
-<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">Кн.1-317</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">Кн.1-317</td>
-<td>Техн марш ИС<br />(Лек)<br />Хомченко И. И.</td>
-<td class="sub">Кн.2-312</td>
-<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
+<td class="sub">Кн.1-201</td>
+<td>Оптимизация тех<br />(Лек)<br />Стешин К. Д.</td>
 <td class="sub">-</td>
-<td>ИнЯз Проф<br />(Лек)<br />Левданская П. В.</td>
-<td class="sub">Кн.1-206</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">-</td>
+<td>Техн марш ИС<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">-</td>
+<td>Сис авт проект<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">-</td>
+<td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>4</th>
-<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">Кн.1-317</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>Факульт ФКиЗ<br />(ф-в)<br />Бураков И. С.</td>
+<td>Статич анализ<br />(Лек)<br />Стешин К. Д.</td>
 <td class="sub">-</td>
-<td>Техн марш ИС<br />(Лек)<br />Хомченко И. И.</td>
-<td class="sub">Кн.2-312</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
+<td>Техн марш ИС<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">-</td>
+<td>Сис авт проект<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
@@ -448,8 +478,23 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>Факульт ФКиЗ<br />(ф-в)<br />Бураков И. С.</td>
-<td class="sub">-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -461,17 +506,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 165*</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -486,112 +531,67 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <th class="sub">Ауд.</th>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
 <th class="sub">Ауд.</th>
-</tr>
-<tr>
-<th>1</th>
-<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">Кн.1-317</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-322</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-</tr>
-<tr>
-<th>2</th>
-<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">Кн.1-317</td>
-<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
-<td class="sub">-</td>
-<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">Кн.1-317</td>
-<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
-<td class="sub">Кн.1-208</td>
-<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
-<td class="sub">Кн.1-319</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-</tr>
-<tr>
-<th>3</th>
-<td>ИнЯз Проф<br />(ПР)<br />Левданская П. В.</td>
-<td class="sub">Кн.1-206</td>
-<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
-<td class="sub">Кн.1-124</td>
-<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
-<td class="sub">Кн.1-319</td>
-<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
-<td class="sub">Кн.1-208</td>
-<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
-<td class="sub">Кн.1-319</td>
-<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">-</td>
-</tr>
-<tr>
-<th>4</th>
-<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
-<td class="sub">-</td>
-<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
-<td class="sub">Кн.1-124</td>
-<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
-<td class="sub">Кн.1-319</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-322</td>
-<td>Функц. микроэл.<br />(Лек)<br />Стешин К. Д.</td>
-<td class="sub">-</td>
 </tr>
 <tr>
 <th>5</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>6</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>7</th>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
+<td>Техн практика<br />(Пр-ка)<br />Бондарь С. Л.</td>
+<td class="sub">-</td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 166*</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -609,61 +609,61 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
-<td class="sub">Кн.2-312</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Системы упр БД<br />(Лек)<br />Гаврилович Д. И.</td>
+<td class="sub">Кн.1-317</td>
 <td>Веб-програмСерв<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">-</td>
+<td>Системы упр БД<br />(Лек)<br />Гаврилович Д. И.</td>
+<td class="sub">-</td>
+<td>Веб-програмСерв<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">-</td>
+<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
 <td class="sub">Кн.132(к)</td>
+<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">Кн.132(к)</td>
+</tr>
+<tr>
+<th>2</th>
 <td>Системы упр БД<br />(Лек)<br />Гаврилович Д. И.</td>
 <td class="sub">Кн.1-317</td>
 <td>ИнЯз Проф<br />(Лек)<br />Колинко Н. Г.</td>
 <td class="sub">Кн.1-208</td>
-</tr>
-<tr>
-<th>2</th>
-<td>Android<br />(Лек)<br />Куцый Д. А.</td>
-<td class="sub">Кн.132(к)</td>
-<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
-<td class="sub">Кн.2-312</td>
-<td>Основы права<br />(Лек)<br />Фетисова Ю. Б.</td>
-<td class="sub">Кн.1-201</td>
-<td>Веб-програмСерв<br />(Лек)<br />Сушкевич Е. П.</td>
-<td class="sub">Кн.132(к)</td>
-<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
-<td class="sub">Кн.132(к)</td>
-<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td>Системы упр БД<br />(Лек)<br />Гаврилович Д. И.</td>
 <td class="sub">-</td>
+<td>Веб-програмСерв<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">-</td>
+<td>Предп деят и УП<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">Кн.132(к)</td>
+<td>Предп деят и УП<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">Кн.132(к)</td>
 </tr>
 <tr>
 <th>3</th>
 <td>Android<br />(Лек)<br />Куцый Д. А.</td>
-<td class="sub">Кн.132(к)</td>
-<td>Веб-програмСерв<br />(Лек)<br />Сушкевич Е. П.</td>
-<td class="sub">Кн.1-127</td>
+<td class="sub">Кн.1-224(к)</td>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">-</td>
 <td>Основы права<br />(Лек)<br />Фетисова Ю. Б.</td>
-<td class="sub">Кн.1-201</td>
-<td>Основы права<br />(Лек)<br />Фетисова Ю. Б.</td>
-<td class="sub">Кн.1-111</td>
-<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
-<td class="sub">Кн.132(к)</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-</tr>
-<tr>
-<th>4</th>
-<td>Визуал проект<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">-</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+<td>Системы упр БД<br />(Лек)<br />Гаврилович Д. И.</td>
 <td class="sub">-</td>
 <td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
 <td class="sub">Кн.132(к)</td>
+</tr>
+<tr>
+<th>4</th>
+<td>Android<br />(Лек)<br />Куцый Д. А.</td>
+<td class="sub">Кн.1-224(к)</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>Бел Яз Проф<br />(ЛР)<br />Барсукова Н. В.</td>
-<td class="sub">Кн.1-317</td>
-<td>Предп деят и УП<br />(Лек)<br />Дорц Н. А.</td>
-<td class="sub">Кн.132(к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Визуал проект<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
@@ -684,6 +684,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -701,17 +716,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 167*</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -729,62 +744,62 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>ПСС internet<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td>Техн коммун<br />(Лек)<br />Потапчик И. Г.</td>
 <td class="sub">Кн 1-109(к)</td>
-<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
-<td class="sub">Кн 1-109(к)</td>
-<td>ПСС internet<br />(Лек)<br />Зеленкевич Е. А.</td>
-<td class="sub">Кн 1-109(к)</td>
-<td>История бел гос<br />(Лек)<br />Галенко Е. Л.</td>
-<td class="sub">Кн 1-109(к)</td>
-<td>История бел гос<br />(Лек)<br />Галенко Е. Л.</td>
-<td class="sub">Кн 1-109(к)</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-</tr>
-<tr>
-<th>2</th>
-<td>Комп сети<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td>Техн коммун<br />(Лек)<br />Потапчик И. Г.</td>
 <td class="sub">Кн 1-109(к)</td>
 <td>Тех разр ПО<br />(Лек)<br />Северин А. В.</td>
 <td class="sub">Кн 1-109(к)</td>
+<td>Совр. язык Java<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>Комп сети<br />(Лек)<br />Зеленкевич Е. А.</td>
 <td class="sub">Кн 1-109(к)</td>
-<td>КПиЯП<br />(Лек)<br />Северин А. В.</td>
+</tr>
+<tr>
+<th>2</th>
+<td>История бел гос<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>Тех разр ПО<br />(Лек)<br />Северин А. В.</td>
 <td class="sub">Кн 1-109(к)</td>
 <td>КПиЯП<br />(Лек)<br />Северин А. В.</td>
 <td class="sub">Кн 1-109(к)</td>
 <td>КПиЯП<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>КПиЯП<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>ПСС internet<br />(Лек)<br />Зеленкевич Е. А.</td>
 <td class="sub">Кн 1-109(к)</td>
 </tr>
 <tr>
 <th>3</th>
-<td>Техн коммун<br />(Лек)<br />Потапчик И. Г.</td>
-<td class="sub">Кн 1-109(к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>КПиЯП<br />(Лек)<br />Северин А. В.</td>
 <td class="sub">Кн 1-109(к)</td>
-<td>Тест ПО<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td>История бел гос<br />(Лек)<br />Галенко Е. Л.</td>
 <td class="sub">Кн 1-109(к)</td>
-<td>Техн коммун<br />(Лек)<br />Потапчик И. Г.</td>
+<td>ПСС internet<br />(Лек)<br />Зеленкевич Е. А.</td>
 <td class="sub">Кн 1-109(к)</td>
 <td>Тех разр ПО<br />(Лек)<br />Северин А. В.</td>
 <td class="sub">Кн 1-109(к)</td>
-<td>КПиЯП<br />(Лек)<br />Северин А. В.</td>
+<td>Совр. язык Java<br />(Лек)<br />Зеленкевич Е. А.</td>
 <td class="sub">Кн 1-109(к)</td>
 </tr>
 <tr>
 <th>4</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>История бел гос<br />(Лек)<br />Галенко Е. Л.</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
 <td class="sub">Кн 1-109(к)</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>Тех разр ПО<br />(Лек)<br />Северин А. В.</td>
+<td>Совр. язык Java<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн 1-109(к)</td>
+<td>Тест ПО<br />(Лек)<br />Зеленкевич Е. А.</td>
 <td class="sub">Кн 1-109(к)</td>
 </tr>
 <tr>
@@ -804,6 +819,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -821,17 +851,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 168*</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -849,62 +879,62 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
+<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-322</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-201</td>
-<td>Тех и обо ВЭиПХ<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-322</td>
 <td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">-</td>
+<td>Методы и средст<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">-</td>
+<td>Техн и обор ЛП<br />(Лек)<br />Мицкевич А. С.</td>
 <td class="sub">-</td>
 </tr>
 <tr>
 <th>2</th>
-<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
-<td class="sub">-</td>
-<td>Техн и обор ЛП<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-322</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-201</td>
 <td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
 <td class="sub">Кн.1-322</td>
+<td>Техн и обор ЛП<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">-</td>
+<td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">-</td>
+<td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">-</td>
 <td>Методы и средст<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">-</td>
+<td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
 <td class="sub">-</td>
 </tr>
 <tr>
 <th>3</th>
 <td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-322</td>
+<td class="sub">Кн.1-319</td>
 <td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-325(к)</td>
+<td class="sub">-</td>
 <td>Техн и обор ЛП<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-322</td>
-<td>Тех и обо ВЭиПХ<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-201</td>
-<td>Техн и обор ЛП<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-322</td>
+<td class="sub">-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>Методы и средст<br />(Лек)<br />Стешин К. Д.</td>
 <td class="sub">-</td>
 </tr>
 <tr>
 <th>4</th>
-<td>Тех и обор сбор<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-322</td>
 <td>Тех и обо ВЭиПХ<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-322</td>
-<td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-322</td>
-<td>Техн и обор ЛП<br />(Лек)<br />Мицкевич А. С.</td>
-<td class="sub">Кн.1-201</td>
+<td class="sub">Кн.1-319</td>
+<td>Тех и обо ВЭиПХ<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">-</td>
+<td>Тех и обо ВЭиПХ<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Методы и средст<br />(Лек)<br />Стешин К. Д.</td>
 <td class="sub">-</td>
 </tr>
 <tr>
@@ -924,6 +954,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -941,17 +986,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 169*</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -971,57 +1016,57 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <th>1</th>
 <td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
 <td class="sub">Кн.1-107</td>
-<td>Арифмет-лог ВТ<br />(Лек)<br />Северин А. В.</td>
-<td class="sub">Кн.1-107</td>
 <td>Инструмент ПО<br />(Лек)<br />Северин А. В.</td>
 <td class="sub">Кн.1-107</td>
-<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
 <td class="sub">Кн.1-107</td>
-<td>Инструмент ПО<br />(Лек)<br />Северин А. В.</td>
+<td>ЗНТЧС<br />(Лек)<br />Фетисова Ю. Б.</td>
 <td class="sub">Кн.1-107</td>
 <td>ОсА<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-107</td>
+<td>Инструмент ПО<br />(Лек)<br />Северин А. В.</td>
 <td class="sub">Кн.1-107</td>
 </tr>
 <tr>
 <th>2</th>
 <td>Арифмет-лог ВТ<br />(Лек)<br />Северин А. В.</td>
 <td class="sub">Кн.1-107</td>
-<td>Оперсис<br />(Лек)<br />Зеленкевич Е. А.</td>
-<td class="sub">Кн.1-107</td>
-<td>ОсА<br />(Лек)<br />Северин А. В.</td>
-<td class="sub">Кн.1-107</td>
-<td>ЗНТЧС<br />(Лек)<br />Фетисова Ю. Б.</td>
-<td class="sub">Кн.1-107</td>
 <td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
 <td class="sub">Кн.1-107</td>
-<td>ЗНТЧС<br />(Лек)<br />Фетисова Ю. Б.</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">Кн.1-107</td>
+<td>JavaScript<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн.1-107</td>
+<td>JavaScript<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн.1-107</td>
+<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
 <td class="sub">Кн.1-107</td>
 </tr>
 <tr>
 <th>3</th>
 <td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
 <td class="sub">Кн.1-107</td>
-<td>Защита КИ<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ОсА<br />(Лек)<br />Северин А. В.</td>
 <td class="sub">Кн.1-107</td>
-<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td>ОсА<br />(Лек)<br />Северин А. В.</td>
 <td class="sub">Кн.1-107</td>
+<td>Оперсис<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">Кн.1-107</td>
+<td>ОсА<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">Кн.1-107</td>
+</tr>
+<tr>
+<th>4</th>
 <td>Инструмент ПО<br />(Лек)<br />Северин А. В.</td>
 <td class="sub">Кн.1-107</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>ЗНТЧС<br />(Лек)<br />Фетисова Ю. Б.</td>
 <td class="sub">Кн.1-107</td>
-</tr>
-<tr>
-<th>4</th>
-<td>ОсА<br />(Лек)<br />Северин А. В.</td>
+<td>Защита КИ<br />(Лек)<br />Зеленкевич Е. А.</td>
 <td class="sub">Кн.1-107</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
-<td class="sub">Кн.1-107</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -1044,6 +1089,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -1061,17 +1121,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 70</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -1089,61 +1149,61 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
+<td class="sub">Кн.1-201</td>
 <td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
-<td class="sub">Кн.1-204 маст</td>
-<td>Тех.обслуж.<br />(Лек)<br />Шеметов И. В.</td>
-<td class="sub">Кн.1-204 маст</td>
+<td class="sub">-</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
 <td>Автомат электр<br />(Лек)<br />Самарская Н. В.</td>
 <td class="sub">Кн.1-319</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
 <td class="sub">-</td>
 </tr>
 <tr>
 <th>2</th>
-<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Левданская П. В.</td>
-<td class="sub">Кн.1-208<br />Кн.1-206</td>
+<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
+<td class="sub">Кн.1-201</td>
 <td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
-<td class="sub">Кн.1-124</td>
-<td>Тех эксплуат<br />(Лек)<br />Шеметов И. В.</td>
-<td class="sub">Кн.1-204 маст</td>
-<td>Автомат электр<br />(Лек)<br />Самарская Н. В.</td>
-<td class="sub">Кн.1-319</td>
+<td class="sub">-</td>
 <td>Тех.обслуж.<br />(Лек)<br />Шеметов И. В.</td>
-<td class="sub">Кн.1-204 маст</td>
-<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Левданская П. В.</td>
-<td class="sub">Кн.1-208<br />Кн.1-206</td>
+<td class="sub">-</td>
+<td>Коррупция<br />(ф-в)<br />Фетисова Ю. Б.</td>
+<td class="sub">-</td>
+<td>Тех.обслуж.<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">-</td>
+<td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>3</th>
-<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
-<td class="sub">Кн.1-212</td>
+<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Левданская П. В.</td>
+<td class="sub">Кн.1-208<br />Кн.1-206</td>
 <td>Автомат электр<br />(Лек)<br />Самарская Н. В.</td>
 <td class="sub">Кн.1-319</td>
 <td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Левданская П. В.</td>
 <td class="sub">Кн.1-208<br />Кн.1-206</td>
 <td>Тех.обслуж.<br />(Лек)<br />Шеметов И. В.</td>
-<td class="sub">Кн.1-204 маст</td>
+<td class="sub">-</td>
 <td>Тех эксплуат<br />(Лек)<br />Шеметов И. В.</td>
-<td class="sub">Кн.1-204 маст</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
 <tr>
 <th>4</th>
-<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
-<td class="sub">Кн.1-212</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>Автомат электр<br />(Лек)<br />Самарская Н. В.</td>
 <td class="sub">Кн.1-319</td>
 <td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
-<td class="sub">Кн.1-204 маст</td>
-<td>Коррупция<br />(ф-в)<br />Фетисова Ю. Б.</td>
-<td class="sub">Кн.1-124</td>
-<td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
-<td class="sub">Кн.1-204 маст</td>
+<td class="sub">-</td>
+<td>Тех эксплуат<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">-</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
@@ -1164,6 +1224,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -1181,17 +1256,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 71</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -1209,91 +1284,106 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">Кн.132(к)<br />Кн.2-409 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
 <td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
 <td class="sub">-<br />Кн.2-409 маст</td>
 </tr>
 <tr>
 <th>2</th>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">Кн.132(к)<br />Кн.2-409 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
 <td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
 <td class="sub">-<br />Кн.2-409 маст</td>
 </tr>
 <tr>
 <th>3</th>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>1.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">Кн.132(к)<br />Кн.2-409 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
+<td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
+<td class="sub">-<br />Кн.2-409 маст</td>
 <td>1.УП по наладке<br />(Пр-ка)<br />Петуховский М. С.<br />2.УП по наладке<br />(Пр-ка)<br />Кублин М. А.</td>
 <td class="sub">-<br />Кн.2-409 маст</td>
 </tr>
 <tr>
 <th>4</th>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
 <tr>
 <th>5</th>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
 <tr>
 <th>6</th>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
-<td>2.УП по наладке<br />(Пр-ка)<br />Шваб А. А.</td>
-<td class="sub">Кн.2-413 маст</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
@@ -1301,17 +1391,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 72</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -1329,23 +1419,23 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
-<td class="sub">-<br />-</td>
+<td>ТОиРемПомРобот<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>ТОиРемПомРобот<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>СУПРиРК<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>1.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
 <td>1.ИнЯз Проф<br />(ПР)<br />Шаповалова Ю. В.<br />2.ИнЯз Проф<br />(ПР)<br />Левданская П. В.</td>
-<td class="sub">3-210<br />3-207</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>ТехРоботозирПр<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">3-114</td>
-<td>ТехРоботозирПр<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">3-114</td>
+<td class="sub">3-210<br />-</td>
+<td>СУПРиРК<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
 </tr>
 <tr>
 <th>2</th>
-<td>СУПРиРК<br />(Лек)<br />Любко А. А.</td>
-<td class="sub">2-109</td>
+<td>ТехРоботозирПр<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
 <td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
 <td class="sub">2-211</td>
 <td>СУПРиРК<br />(Лек)<br />Любко А. А.</td>
@@ -1354,36 +1444,36 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">3-114</td>
 <td>ТОиРемПомРобот<br />(Лек)<br />Камлюк В. С.</td>
 <td class="sub">3-114</td>
-<td>ТОиРемПомРобот<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">3-114</td>
+<td>СУПРиРК<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
 </tr>
 <tr>
 <th>3</th>
-<td>ПО промыш робот<br />(Лек)<br />Любко А. А.</td>
-<td class="sub">2-109</td>
-<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
-<td class="sub">2-211</td>
-<td>СУПРиРК<br />(Лек)<br />Любко А. А.</td>
-<td class="sub">2-109</td>
+<td>ТОиРемПомРобот<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>ТехРоботозирПр<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
 <td>1.ИнЯз Проф<br />(ПР)<br />Шаповалова Ю. В.<br />2.ИнЯз Проф<br />(ПР)<br />Левданская П. В.</td>
-<td class="sub">3-210<br />3-207</td>
-<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
-<td class="sub">2-211</td>
-<td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
-<td class="sub">2-108</td>
-</tr>
-<tr>
-<th>4</th>
-<td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
-<td class="sub">2-108</td>
-<td>2.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.</td>
-<td class="sub">702</td>
+<td class="sub">3-210<br />-</td>
 <td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
 <td class="sub">2-108</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>СУПРиРК<br />(Лек)<br />Любко А. А.</td>
-<td class="sub">2-109</td>
+</tr>
+<tr>
+<th>4</th>
+<td>1.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Экономика орган<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
+<td class="sub">2-211</td>
+<td>2.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
@@ -1404,6 +1494,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>1.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -1421,137 +1526,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 73</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
-<table style="width: 1172px;" border="1" width="1175" cellspacing="0" cellpadding="3">
-<tbody>
-<tr>
-<th style="width: 26px;" rowspan="2">№</th>
-<th style="width: 191px;" colspan="2">Понедельник, 01.09.2025</th>
-<th style="width: 191px;" colspan="2">Вторник, 02.09.2025</th>
-<th style="width: 191px;" colspan="2">Среда, 03.09.2025</th>
-<th style="width: 191px;" colspan="2">Четверг, 04.09.2025</th>
-<th style="width: 191px;" colspan="2">Пятница, 05.09.2025</th>
-<th style="width: 191px;" colspan="2">Суббота, 06.09.2025</th>
-</tr>
-<tr>
-<th class="sub" style="width: 146px;">Дисциплина, вид занятия, преподаватель</th>
-<th class="sub" style="width: 45px;">Ауд.</th>
-<th class="sub" style="width: 146px;">Дисциплина, вид занятия, преподаватель</th>
-<th class="sub" style="width: 45px;">Ауд.</th>
-<th class="sub" style="width: 146px;">Дисциплина, вид занятия, преподаватель</th>
-<th class="sub" style="width: 45px;">Ауд.</th>
-<th class="sub" style="width: 146px;">Дисциплина, вид занятия, преподаватель</th>
-<th class="sub" style="width: 45px;">Ауд.</th>
-<th class="sub" style="width: 146px;">Дисциплина, вид занятия, преподаватель</th>
-<th class="sub" style="width: 45px;">Ауд.</th>
-<th class="sub" style="width: 146px;">Дисциплина, вид занятия, преподаватель</th>
-<th class="sub" style="width: 45px;">Ауд.</th>
-</tr>
-<tr>
-<th style="width: 26px;">1</th>
-<td style="width: 146px;">АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
-<td class="sub" style="width: 45px;">504 (к)</td>
-<td style="width: 146px;">Комп сети<br />(Лек)<br />Варицкая А. В.</td>
-<td class="sub" style="width: 45px;">2-105 (к)</td>
-<td style="width: 146px;">ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
-<td class="sub" style="width: 45px;">2-206 (к)</td>
-<td style="width: 146px;">Базы данных<br />(Лек)<br />Вайтович И. М.</td>
-<td class="sub" style="width: 45px;">3-205 (к)</td>
-<td style="width: 146px;">Комп сети<br />(Лек)<br />Варицкая А. В.</td>
-<td class="sub" style="width: 45px;">2-105 (к)</td>
-<td style="width: 146px;">Базы данных<br />(Лек)<br />Вайтович И. М.</td>
-<td class="sub" style="width: 45px;">3-205 (к)</td>
-</tr>
-<tr>
-<th style="width: 26px;">2</th>
-<td style="width: 146px;">Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
-<td class="sub" style="width: 45px;">3-202 (к)</td>
-<td style="width: 146px;">Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
-<td class="sub" style="width: 45px;">3-202 (к)</td>
-<td style="width: 146px;">Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
-<td class="sub" style="width: 45px;">3-202 (к)</td>
-<td style="width: 146px;">Осн предпр дея<br />(Лек)<br />Дорц Н. А.</td>
-<td class="sub" style="width: 45px;">504 (к)</td>
-<td style="width: 146px;">1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
-<td class="sub" style="width: 45px;">-<br />-<br />-</td>
-<td style="width: 146px;">АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
-<td class="sub" style="width: 45px;">504 (к)</td>
-</tr>
-<tr>
-<th style="width: 26px;">3</th>
-<td style="width: 146px;">ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
-<td class="sub" style="width: 45px;">603</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">Осн предпр дея<br />(Лек)<br />Дорц Н. А.</td>
-<td class="sub" style="width: 45px;">504 (к)</td>
-<td style="width: 146px;">Комп сети<br />(Лек)<br />Варицкая А. В.</td>
-<td class="sub" style="width: 45px;">2-105 (к)</td>
-<td style="width: 146px;">Базы данных<br />(Лек)<br />Вайтович И. М.</td>
-<td class="sub" style="width: 45px;">3-205 (к)</td>
-<td style="width: 146px;">Осн предпр дея<br />(Лек)<br />Дорц Н. А.</td>
-<td class="sub" style="width: 45px;">504 (к)</td>
-</tr>
-<tr>
-<th style="width: 26px;">4</th>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">1.Визуал проект<br />(ЛР)<br />Шавейко А. А.</td>
-<td class="sub" style="width: 45px;">3-202 (к)</td>
-<td style="width: 146px;">2.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.</td>
-<td class="sub" style="width: 45px;">702</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-</tr>
-<tr>
-<th style="width: 26px;">5</th>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-</tr>
-<tr>
-<th style="width: 26px;">6</th>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-<td style="width: 146px;">&nbsp;</td>
-<td class="sub" style="width: 45px;">&nbsp;</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<h2>Группа - 74</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -1569,59 +1554,194 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
+<td>Базы данных<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>1.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />3.Факульт ФКиЗ<br />(ф-в)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>Xamarin<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
+<td>1.Визуал проект<br />(ЛР)<br />Шавейко А. А.</td>
 <td class="sub">3-202 (к)</td>
-<td>1.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.</td>
-<td class="sub">702</td>
-<td>Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
-<td class="sub">3-202 (к)</td>
-<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
-<td class="sub">504 (к)</td>
-<td>Осн предпр дея<br />(Лек)<br />Федкевич Д. А.</td>
-<td class="sub">401 (к)</td>
-<td>Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
-<td class="sub">3-202 (к)</td>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
 </tr>
 <tr>
 <th>2</th>
+<td>Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
+<td class="sub">3-202 (к)</td>
+<td>2.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
+<td>ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">-</td>
+<td>1.Визуал проект<br />(ЛР)<br />Шавейко А. А.<br />2.Базы данных<br />(ЛР)<br />Галицкий М. И.</td>
+<td class="sub">3-202 (к)<br />-</td>
+<td>ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">-</td>
+<td>Базы данных<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+</tr>
+<tr>
+<th>3</th>
 <td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
 <td class="sub">603</td>
+<td>1.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.<br />2.Визуал проект<br />(ЛР)<br />Шавейко А. А.</td>
+<td class="sub">702<br />3-202 (к)</td>
+<td>Осн предпр дея<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">504 (к)</td>
+<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">504 (к)</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>Коррупция<br />(ф-в)<br />Фетисова Ю. Б.</td>
+<td class="sub">2-212</td>
+</tr>
+<tr>
+<th>4</th>
+<td>1.Базы данных<br />(ЛР)<br />Вайтович И. М.<br />2.Визуал проект<br />(ЛР)<br />Шавейко А. А.</td>
+<td class="sub">3-205 (к)<br />3-202 (к)</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">504 (к)</td>
+<td>Осн предпр дея<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">504 (к)</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>Xamarin<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
+</tr>
+<tr>
+<th>5</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>1.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />3.Факульт ФКиЗ<br />(ф-в)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h2>Группа - 74</h2>
+<h3>08.09.2025 - 14.09.2025</h3>
+<table border="1" width="1175" cellspacing="0" cellpadding="3">
+<tbody>
+<tr>
+<th rowspan="2">№</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
+</tr>
+<tr>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+<th class="sub">Дисциплина, вид занятия, преподаватель</th>
+<th class="sub">Ауд.</th>
+</tr>
+<tr>
+<th>1</th>
+<td>1.Визуал проект<br />(ЛР)<br />Шавейко А. А.</td>
+<td class="sub">3-202 (к)</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>Xamarin<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
+<td>Xamarin<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
+</tr>
+<tr>
+<th>2</th>
 <td>Осн предпр дея<br />(Лек)<br />Федкевич Д. А.</td>
 <td class="sub">401 (к)</td>
-<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
-<td class="sub">2-105 (к)</td>
 <td>Базы данных<br />(Лек)<br />Вайтович И. М.</td>
 <td class="sub">3-205 (к)</td>
-<td>Базы данных<br />(Лек)<br />Вайтович И. М.</td>
-<td class="sub">3-205 (к)</td>
-<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
-<td class="sub">2-105 (к)</td>
+<td>1.Комп сети<br />(ЛР)<br />Варицкая А. В.<br />2.Комп сети<br />(ЛР)<br />Куцый Д. А.</td>
+<td class="sub">2-105 (к)<br />605 (к)</td>
+<td>Xamarin<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
+<td>1.Базы данных<br />(ЛР)<br />Вайтович И. М.<br />2.Базы данных<br />(ЛР)<br />Галицкий М. И.</td>
+<td class="sub">3-205 (к)<br />-</td>
+<td>Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
+<td class="sub">3-202 (к)</td>
 </tr>
 <tr>
 <th>3</th>
 <td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
 <td class="sub">504 (к)</td>
-<td>Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
-<td class="sub">3-202 (к)</td>
-<td>Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
-<td class="sub">3-202 (к)</td>
-<td>1.Визуал проект<br />(ЛР)<br />Шавейко А. А.<br />2.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.</td>
-<td class="sub">3-202 (к)<br />702</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.</td>
-<td class="sub">-<br />-<br />-</td>
+<td>Базы данных<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>Визуал проект<br />(Лек)<br />Шавейко А. А.</td>
+<td class="sub">3-202 (к)</td>
+<td>ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">-</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
 </tr>
 <tr>
 <th>4</th>
-<td>1.Факульт ФКиЗ<br />(ф-в)<br />Анципов Е. Ю.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />3.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.</td>
-<td class="sub">-<br />-<br />-</td>
+<td>1.ПСС internet<br />(ЛР)<br />Сушкевич Е. П.<br />2.Осн предпр дея<br />(ЛР)<br />Дорц Н. А.</td>
+<td class="sub">503 (к)<br />504 (к)</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>АвтУпрДеят<br />(Лек)<br />Дорц Н. А.</td>
-<td class="sub">504 (к)</td>
-<td>2.Визуал проект<br />(ЛР)<br />Шавейко А. А.</td>
-<td class="sub">3-202 (к)</td>
+<td>1.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.<br />2.ПСС internet<br />(ЛР)<br />Сушкевич Е. П.</td>
+<td class="sub">702<br />503 (к)</td>
+<td>1.Осн предпр дея<br />(ЛР)<br />Федкевич Д. А.<br />2.Визуал проект<br />(ЛР)<br />Шавейко А. А.</td>
+<td class="sub">401 (к)<br />3-202 (к)</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -1644,8 +1764,23 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
-<td>1.Факульт ФКиЗ<br />(ф-в)<br />Анципов Е. Ю.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />3.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.</td>
-<td class="sub">-<br />-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -1661,17 +1796,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 75</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -1693,14 +1828,14 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">3-208 (к)</td>
 <td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
 <td class="sub">2-211</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
 <td>Обслуж АО Моб<br />(Лек)<br />Бровка Д. С.</td>
 <td class="sub">3-208 (к)</td>
-<td>Обслуж АО Моб<br />(Лек)<br />Бровка Д. С.</td>
+<td>ВП для МУ<br />(Лек)<br />Бровка Д. С.</td>
 <td class="sub">3-208 (к)</td>
-<td>1.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Усикова Л. Н.</td>
-<td class="sub">-<br />-</td>
+<td>Комп сети<br />(Лек)<br />Бокач Д. В.</td>
+<td class="sub">-</td>
+<td>1.Структуры и БД<br />(ЛР)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
 </tr>
 <tr>
 <th>2</th>
@@ -1708,42 +1843,42 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">3-208 (к)</td>
 <td>Раз прил для МУ<br />(Лек)<br />Бровка Д. С.</td>
 <td class="sub">3-208 (к)</td>
-<td>Бел Яз Проф<br />(Лек)<br />Кохно Т. А.</td>
-<td class="sub">702</td>
-<td>Раз прил для МУ<br />(Лек)<br />Бровка Д. С.</td>
-<td class="sub">3-208 (к)</td>
-<td>ВП для МУ<br />(Лек)<br />Бровка Д. С.</td>
-<td class="sub">3-208 (к)</td>
 <td>Структуры и БД<br />(Лек)<br />Вайтович И. М.</td>
 <td class="sub">3-205 (к)</td>
+<td>1.Структуры и БД<br />(ЛР)<br />Вайтович И. М.<br />2.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.</td>
+<td class="sub">3-205 (к)<br />702</td>
+<td>Обслуж АО Моб<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>Коррупция<br />(ф-в)<br />Фетисова Ю. Б.</td>
+<td class="sub">2-212</td>
 </tr>
 <tr>
 <th>3</th>
 <td>Раз прил для МУ<br />(Лек)<br />Бровка Д. С.</td>
 <td class="sub">3-208 (к)</td>
-<td>Структуры и БД<br />(Лек)<br />Вайтович И. М.</td>
-<td class="sub">3-205 (к)</td>
-<td>Комп сети<br />(Лек)<br />Бокач Д. В.</td>
-<td class="sub">602</td>
 <td>1.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
 <td class="sub">-<br />-</td>
+<td>1.Бел Яз Проф<br />(ПР)<br />Кохно Т. А.<br />2.Структуры и БД<br />(ЛР)<br />Галицкий М. И.</td>
+<td class="sub">702<br />-</td>
+<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
+<td class="sub">2-211</td>
+<td>1.Структуры и БД<br />(ЛР)<br />Вайтович И. М.<br />2.Структуры и БД<br />(ЛР)<br />Галицкий М. И.</td>
+<td class="sub">3-205 (к)<br />-</td>
 <td>Комп сети<br />(Лек)<br />Бокач Д. В.</td>
-<td class="sub">602</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>4</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>1.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
-<td class="sub">-<br />-</td>
 <td>Комп сети<br />(Лек)<br />Бокач Д. В.</td>
 <td class="sub">602</td>
-<td>ВП для МУ<br />(Лек)<br />Бровка Д. С.</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>2.Структуры и БД<br />(ЛР)<br />Галицкий М. И.</td>
+<td class="sub">-</td>
+<td>Раз прил для МУ<br />(Лек)<br />Бровка Д. С.</td>
 <td class="sub">3-208 (к)</td>
-<td>Осн менеджмента<br />(Лек)<br />Громыко Н. К.</td>
-<td class="sub">2-211</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
@@ -1774,24 +1909,39 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>1.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Усикова Л. Н.</td>
-<td class="sub">-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 76</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -1809,59 +1959,59 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
-<td class="sub">3-114</td>
-<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
-<td class="sub">3-103 (лаб)</td>
+<td>Техн коммун<br />(Лек)<br />Лихачева О. П.</td>
+<td class="sub">304</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
 <td class="sub">603</td>
-<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
-<td class="sub">603</td>
-<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
-<td class="sub">603</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>2</th>
 <td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />3.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
 <td class="sub">-<br />-<br />-</td>
-<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">3-111 (к)</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
 <td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
 <td class="sub">2-108</td>
 <td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
 <td class="sub">3-111 (к)</td>
-<td>Техн коммун<br />(Лек)<br />Лихачева О. П.</td>
-<td class="sub">304</td>
 <td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
 <td class="sub">2-108</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
 </tr>
 <tr>
 <th>3</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
-<td class="sub">701</td>
-<td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
-<td class="sub">304</td>
 <td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
 <td class="sub">3-113</td>
+<td>Коррупция<br />(ф-в)<br />Фетисова Ю. Б.</td>
+<td class="sub">2-212</td>
+<td>Мод и опт ТП<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">602</td>
+<td>Норм-техн докум<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">602</td>
 <td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
 <td class="sub">3-114</td>
-<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">3-114</td>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
 </tr>
 <tr>
 <th>4</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">3-114</td>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">3-103 (лаб)</td>
 <td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
 <td class="sub">3-111 (к)</td>
-<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">3-114</td>
+<td>Мод и опт ТП<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">602</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -1875,6 +2025,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -1883,7 +2048,7 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">&nbsp;</td>
 </tr>
 <tr>
-<th>6</th>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -1901,17 +2066,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 77</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -1931,42 +2096,42 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <th>1</th>
 <td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
 <td class="sub">603</td>
-<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">3-111 (к)</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">304</td>
+<td>2.Бел Яз Проф<br />(ПР)<br />Барсукова Н. В.</td>
+<td class="sub">701</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
 <td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
 <td class="sub">2-108</td>
-<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
-<td class="sub">3-113</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>1.Факульт ФКиЗ<br />(ф-в)<br />Анципов Е. Ю.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.</td>
-<td class="sub">-<br />-</td>
+<td>Коррупция<br />(ф-в)<br />Фетисова Ю. Б.</td>
+<td class="sub">2-212</td>
 </tr>
 <tr>
 <th>2</th>
 <td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
 <td class="sub">2-108</td>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Мод и опт ТП<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">602</td>
+<td>Мод и опт ТП<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">602</td>
 <td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
 <td class="sub">3-103 (лаб)</td>
 <td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
 <td class="sub">304</td>
-<td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
-<td class="sub">603</td>
-<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
-<td class="sub">2-108</td>
-<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">3-111 (к)</td>
 </tr>
 <tr>
 <th>3</th>
 <td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
 <td class="sub">3-111 (к)</td>
-<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">3-114</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.</td>
+<td class="sub">-<br />-</td>
 <td>Техн коммун<br />(Лек)<br />Лихачева О. П.</td>
-<td class="sub">301</td>
-<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">3-114</td>
+<td class="sub">-</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">3-103 (лаб)</td>
 <td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
 <td class="sub">603</td>
 <td>1.Бел Яз Проф<br />(ПР)<br />Барсукова Н. В.</td>
@@ -1974,12 +2139,12 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>4</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.</td>
-<td class="sub">-<br />-</td>
-<td>2.Бел Яз Проф<br />(ПР)<br />Барсукова Н. В.</td>
-<td class="sub">701</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">3-113</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>Норм-техн докум<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">602</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
@@ -2014,24 +2179,39 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>1.Факульт ФКиЗ<br />(ф-в)<br />Анципов Е. Ю.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.</td>
-<td class="sub">-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 </tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 78</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -2049,29 +2229,29 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">3-111 (к)</td>
-<td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
-<td class="sub">701</td>
-<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">3-111 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">3-103 (лаб)</td>
+<td>Мод и опт ТП<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">602</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
 <td class="sub">3-114</td>
-<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
-<td class="sub">2-108</td>
-<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
-<td class="sub">2-108</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
 </tr>
 <tr>
 <th>2</th>
+<td>Техн коммун<br />(Лек)<br />Лихачева О. П.</td>
+<td class="sub">304</td>
+<td>Коррупция<br />(ф-в)<br />Фетисова Ю. Б.</td>
+<td class="sub">2-212</td>
 <td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
-<td class="sub">302</td>
-<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">3-114</td>
-<td>1.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />3.Факульт ФКиЗ<br />(ф-в)<br />Усикова Л. Н.</td>
-<td class="sub">-<br />-<br />-</td>
+<td class="sub">-</td>
 <td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
-<td class="sub">3-113</td>
+<td class="sub">3-103 (лаб)</td>
 <td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
 <td class="sub">603</td>
 <td>ООСиЭ<br />(Лек)<br />Поклад Т. И.</td>
@@ -2081,36 +2261,36 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <th>3</th>
 <td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
 <td class="sub">2-108</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">-</td>
 <td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
 <td class="sub">2-108</td>
-<td>Техн коммун<br />(Лек)<br />Лихачева О. П.</td>
-<td class="sub">3-212 (к)</td>
+<td>Испытание<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
+<td class="sub">-</td>
 <td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
 <td class="sub">-<br />-<br />-</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
 </tr>
 <tr>
 <th>4</th>
-<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
-<td class="sub">3-114</td>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>Техн коммун<br />(Лек)<br />Лихачева О. П.</td>
-<td class="sub">301</td>
-<td>НТиН<br />(Лек)<br />Пуршнев А. В.</td>
-<td class="sub">3-113</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>1.Бел Яз Проф<br />(ПР)<br />Барсукова Н. В.</td>
+<td class="sub">701</td>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Осн экон и ПД<br />(Лек)<br />Богдановская О. Н.</td>
+<td class="sub">2-108</td>
+<td>2.Бел Яз Проф<br />(ПР)<br />Барсукова Н. В.</td>
+<td class="sub">701</td>
 </tr>
 <tr>
 <th>5</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Основы наноэлек<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -2128,8 +2308,23 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>1.Факульт ФКиЗ<br />(ф-в)<br />Перепелкин А. М.<br />2.Факульт ФКиЗ<br />(ф-в)<br />Прокопович М. Е.<br />3.Факульт ФКиЗ<br />(ф-в)<br />Усикова Л. Н.</td>
-<td class="sub">-<br />-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -2141,17 +2336,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 79</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -2174,58 +2369,58 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>Эл машины<br />(Лек)<br />Тарасова Е. И.</td>
-<td class="sub">Кн.1-127</td>
+<td class="sub">-</td>
+<td>Эл.освещ.<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">-</td>
 <td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
-<td class="sub">Кн.1-204 маст</td>
-<td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
-<td class="sub">Кн.1-204 маст</td>
-<td>Осн.эл.привода<br />(Лек)<br />Любко А. А.</td>
-<td class="sub">Кн.1-124</td>
+<td class="sub">-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 </tr>
 <tr>
 <th>2</th>
 <td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
 <td class="sub">Кн.1-006</td>
-<td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
-<td class="sub">Кн.1-204 маст</td>
+<td>Эл.освещ.<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">-</td>
 <td>Эл машины<br />(Лек)<br />Тарасова Е. И.</td>
-<td class="sub">Кн.1-127</td>
-<td>Осн.эл.привода<br />(Лек)<br />Любко А. А.</td>
-<td class="sub">Кн.1-124</td>
+<td class="sub">-</td>
+<td>Электроснаб<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">-</td>
 <td>ОснАвтиМикрТех<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">Кн.2-312</td>
-<td>Осн.эл.привода<br />(Лек)<br />Любко А. А.</td>
-<td class="sub">Кн.1-124</td>
+<td class="sub">-</td>
+<td>ОснАвтиМикрТех<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
 </tr>
 <tr>
 <th>3</th>
 <td>Электроснаб<br />(Лек)<br />Шеметов И. В.</td>
 <td class="sub">Кн.1-006</td>
-<td>Электроснаб<br />(Лек)<br />Шеметов И. В.</td>
-<td class="sub">Кн.1-204 маст</td>
-<td>Эл.освещ.<br />(Лек)<br />Шеметов И. В.</td>
-<td class="sub">Кн.1-204 маст</td>
+<td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">-</td>
+<td>Электрооб.ПиГЗ<br />(Лек)<br />Шеметов И. В.</td>
+<td class="sub">-</td>
 <td>Осн.эл.привода<br />(Лек)<br />Любко А. А.</td>
 <td class="sub">Кн.1-124</td>
 <td>ОснАвтиМикрТех<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">Кн.2-312</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td class="sub">-</td>
+<td>Осн.эл.привода<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>4</th>
 <td>Электроснаб<br />(Лек)<br />Шеметов И. В.</td>
 <td class="sub">Кн.1-006</td>
-<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
-<td class="sub">-</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
 <td class="sub">-</td>
+<td>Осн.эл.привода<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">Кн.1-124</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
+<td>Осн.эл.привода<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>5</th>
@@ -2244,6 +2439,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -2261,17 +2471,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 80</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -2289,30 +2499,30 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>Механ пром робо<br />(Лек)<br />Любко А. А.</td>
-<td class="sub">2-109</td>
-<td>НЭОПИМ<br />(Лек)<br />Камлюк В. С.</td>
-<td class="sub">3-114</td>
-<td>2.Инф техн<br />(ЛР)<br />Куцый Д. А.</td>
-<td class="sub">605 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Цифр и микр тех<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Цифр и микр тех<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>Механ пром робо<br />(Лек)<br />Любко А. А.</td>
 <td class="sub">2-109</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Пром электр<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
 </tr>
 <tr>
 <th>2</th>
-<td>Пром электр<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">3-111 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>Элпр и автом<br />(Лек)<br />Любко А. А.</td>
 <td class="sub">2-109</td>
-<td>Цифр и микр тех<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">3-111 (к)</td>
-<td>1.Инф техн<br />(ЛР)<br />Куцый Д. А.</td>
-<td class="sub">605 (к)</td>
-<td>Элпр и автом<br />(Лек)<br />Любко А. А.</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.</td>
+<td class="sub">-<br />-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Механ пром робо<br />(Лек)<br />Любко А. А.</td>
 <td class="sub">2-109</td>
 <td>АвтомПр<br />(Лек)<br />Мурашко А. В.</td>
 <td class="sub">-</td>
@@ -2324,28 +2534,28 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td>Механ пром робо<br />(Лек)<br />Любко А. А.</td>
 <td class="sub">2-109</td>
 <td>АвтомПр<br />(Лек)<br />Мурашко А. В.</td>
-<td class="sub">2-212</td>
+<td class="sub">-</td>
 <td>Цифр и микр тех<br />(Лек)<br />Плаксин Е. Б.</td>
 <td class="sub">3-111 (к)</td>
-<td>Механ пром робо<br />(Лек)<br />Любко А. А.</td>
+<td>Элпр и автом<br />(Лек)<br />Любко А. А.</td>
 <td class="sub">2-109</td>
-<td>Цифр и микр тех<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">3-111 (к)</td>
+<td>НЭОПИМ<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
 </tr>
 <tr>
 <th>4</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>Элпр и автом<br />(Лек)<br />Любко А. А.</td>
-<td class="sub">2-109</td>
+<td>НЭОПИМ<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
 <td>АвтомПр<br />(Лек)<br />Мурашко А. В.</td>
-<td class="sub">2-212</td>
-<td>Цифр и микр тех<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">3-111 (к)</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>НЭОПИМ<br />(Лек)<br />Камлюк В. С.</td>
 <td class="sub">3-114</td>
+<td>Элпр и автом<br />(Лек)<br />Любко А. А.</td>
+<td class="sub">2-109</td>
+<td>Цифр и микр тех<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
 </tr>
 <tr>
 <th>5</th>
@@ -2355,6 +2565,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
+<td>НЭОПИМ<br />(Лек)<br />Камлюк В. С.</td>
+<td class="sub">3-114</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -2363,7 +2588,7 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">&nbsp;</td>
 </tr>
 <tr>
-<th>6</th>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -2381,17 +2606,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 81</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -2409,61 +2634,61 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>История бел гос<br />(Лек)<br />Сотникова О. А.</td>
-<td class="sub">402</td>
-<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
-<td class="sub">2-105 (к)</td>
-<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
-<td class="sub">501 (к)</td>
-<td>Техн коммун<br />(ПР)<br />Лихачева О. П.</td>
-<td class="sub">304</td>
 <td>Тест ПО<br />(Лек)<br />Дорц Н. А.</td>
 <td class="sub">504 (к)</td>
+<td>История бел гос<br />(Лек)<br />Сотникова О. А.</td>
+<td class="sub">-</td>
+<td>1.Тех разр ПО<br />(ЛР)<br />Кулецкая Ю. Н.<br />2.Комп сети<br />(ЛР)<br />Куцый Д. А.</td>
+<td class="sub">501 (к)<br />605 (к)</td>
+<td>2.Тех разр ПО<br />(ЛР)<br />Кулецкая Ю. Н.</td>
+<td class="sub">501 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
 </tr>
 <tr>
 <th>2</th>
 <td>История бел гос<br />(Лек)<br />Сотникова О. А.</td>
-<td class="sub">403</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td class="sub">402</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
 <td>Тест ПО<br />(Лек)<br />Дорц Н. А.</td>
 <td class="sub">504 (к)</td>
+<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
+<td class="sub">501 (к)</td>
+<td>Совр. язык Java<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
+<td>Защита КИ<br />(Лек)<br />Гаврилович Д. И.</td>
+<td class="sub">2-206 (к)</td>
+</tr>
+<tr>
+<th>3</th>
+<td>ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">501 (к)</td>
 <td>Защита КИ<br />(Лек)<br />Гаврилович Д. И.</td>
 <td class="sub">2-206 (к)</td>
 <td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
 <td class="sub">2-105 (к)</td>
-<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
-<td class="sub">501 (к)</td>
-</tr>
-<tr>
-<th>3</th>
-<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
-<td class="sub">2-105 (к)</td>
 <td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
 <td class="sub">-<br />-<br />-</td>
-<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
-<td class="sub">501 (к)</td>
-<td>Тест ПО<br />(Лек)<br />Дорц Н. А.</td>
-<td class="sub">504 (к)</td>
-<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
-<td class="sub">501 (к)</td>
 <td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
 <td class="sub">2-105 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 </tr>
 <tr>
 <th>4</th>
+<td>1.Комп сети<br />(ЛР)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Техн коммун<br />(ПР)<br />Лихачева О. П.</td>
+<td class="sub">-</td>
+<td>Совр. язык Java<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
 <td>ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
-<td class="sub">501 (к)</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
-<td class="sub">2-206 (к)</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
@@ -2477,13 +2702,28 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
+<td>КПиЯП<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
 <tr>
-<th>6</th>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -2501,17 +2741,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 82</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -2531,14 +2771,14 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <th>1</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>Защита КИ<br />(Лек)<br />Гаврилович Д. И.</td>
-<td class="sub">2-206 (к)</td>
-<td>Тест ПО<br />(Лек)<br />Дорц Н. А.</td>
-<td class="sub">504 (к)</td>
-<td>Техн коммун<br />(ПР)<br />Лихачева О. П.</td>
-<td class="sub">3-212 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
-<td class="sub">501 (к)</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
@@ -2546,46 +2786,46 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <th>2</th>
 <td>Тест ПО<br />(Лек)<br />Дорц Н. А.</td>
 <td class="sub">504 (к)</td>
-<td>1.ФЗКиЗ<br />(ЛР)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.</td>
-<td class="sub">-<br />-</td>
+<td>Защита КИ<br />(Лек)<br />Гаврилович Д. И.</td>
+<td class="sub">2-206 (к)</td>
 <td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
 <td class="sub">501 (к)</td>
-<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
-<td class="sub">501 (к)</td>
-<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
-<td class="sub">501 (к)</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Тест ПО<br />(Лек)<br />Дорц Н. А.</td>
+<td class="sub">504 (к)</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>КПиЯП<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
 </tr>
 <tr>
 <th>3</th>
-<td>Защита КИ<br />(Лек)<br />Гаврилович Д. И.</td>
-<td class="sub">2-206 (к)</td>
+<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
 <td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
 <td class="sub">2-105 (к)</td>
 <td>ПСС internet<br />(Лек)<br />Сушкевич Е. П.</td>
-<td class="sub">2-206 (к)</td>
-<td>Защита КИ<br />(Лек)<br />Гаврилович Д. И.</td>
-<td class="sub">2-206 (к)</td>
-<td>Комп сети<br />(Лек)<br />Варицкая А. В.</td>
-<td class="sub">2-105 (к)</td>
-<td>Тех разр ПО<br />(Лек)<br />Кулецкая Ю. Н.</td>
-<td class="sub">501 (к)</td>
+<td class="sub">-</td>
+<td>КПиЯП<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
+<td>КПиЯП<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
+<td>Совр. язык Java<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
 </tr>
 <tr>
 <th>4</th>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.</td>
+<td class="sub">-<br />-</td>
+<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.</td>
+<td class="sub">-<br />-</td>
+<td>Техн коммун<br />(ПР)<br />Лихачева О. П.</td>
+<td class="sub">-</td>
+<td>Совр. язык Java<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
-<td class="sub">2-316</td>
-<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
-<td class="sub">2-316</td>
-<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
-<td class="sub">2-316</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>Защита КИ<br />(Лек)<br />Гаврилович Д. И.</td>
-<td class="sub">2-206 (к)</td>
 </tr>
 <tr>
 <th>5</th>
@@ -2595,6 +2835,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
+<td>Совр. язык Java<br />(Лек)<br />Леус Ж. В.</td>
+<td class="sub">3-212 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -2603,7 +2858,7 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">&nbsp;</td>
 </tr>
 <tr>
-<th>6</th>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -2621,17 +2876,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 83</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -2649,48 +2904,48 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
+<td>2.ОсА<br />(ЛР)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
-<td class="sub">401 (к)</td>
-<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
-<td class="sub">401 (к)</td>
 <td>Анал и циф схем<br />(Лек)<br />Плаксин Е. Б.</td>
 <td class="sub">3-111 (к)</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
-<td class="sub">401 (к)</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(ЛР)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Холмовская Е. Н.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>2</th>
-<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
-<td class="sub">401 (к)</td>
+<td>Анал и циф схем<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
 <td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
 <td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
-<td class="sub">2-211</td>
-<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
-<td class="sub">704</td>
+<td class="sub">-</td>
 <td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
 <td class="sub">401 (к)</td>
-<td>1.ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(ЛР)<br />Усикова Л. Н.</td>
-<td class="sub">-<br />-<br />-</td>
+<td>Техн и обор ЛП<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">402</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Холмовская Е. Н.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>3</th>
 <td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
-<td class="sub">402</td>
-<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
-<td class="sub">304</td>
-<td>Техн пр МЭУ<br />(Лек)<br />Холмовская Е. Н.</td>
-<td class="sub">2-211</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">2-109</td>
+<td>1.ОсА<br />(ЛР)<br />Федкевич Д. А.</td>
 <td class="sub">401 (к)</td>
 <td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
-<td class="sub">-</td>
+<td class="sub">402</td>
+<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">402</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 </tr>
 <tr>
 <th>4</th>
@@ -2698,12 +2953,12 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">2-316</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>1.ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(ЛР)<br />Усикова Л. Н.</td>
-<td class="sub">-<br />-<br />-</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Холмовская Е. Н.</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
-<td class="sub">2-316</td>
+<td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">402</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
@@ -2713,6 +2968,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
+<td>Анал и циф схем<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -2723,7 +2993,7 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">&nbsp;</td>
 </tr>
 <tr>
-<th>6</th>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -2741,17 +3011,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 84</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -2769,31 +3039,31 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
-<td class="sub">402</td>
+<td>Анал и циф схем<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
 <td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
 <td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
-<td class="sub">2-109</td>
-<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
-<td class="sub">704</td>
-<td>ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.</td>
 <td class="sub">-</td>
-<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
-<td class="sub">-</td>
+<td>Тех и обо ВЭиПХ<br />(Лек)<br />Стешин К. Д.</td>
+<td class="sub">602</td>
+<td>Оборуд пр м/э<br />(Лек)<br />Мицкевич А. С.</td>
+<td class="sub">402</td>
+<td>2.ОсА<br />(ЛР)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
 </tr>
 <tr>
 <th>2</th>
 <td>ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.</td>
 <td class="sub">-</td>
 <td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
-<td class="sub">304</td>
+<td class="sub">-</td>
+<td>Анал и циф схем<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">-</td>
 <td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
 <td class="sub">401 (к)</td>
-<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
-<td class="sub">401 (к)</td>
-<td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
-<td class="sub">2-316</td>
 <td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
 <td class="sub">401 (к)</td>
 </tr>
@@ -2803,29 +3073,29 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">401 (к)</td>
 <td>Анал и циф схем<br />(Лек)<br />Плаксин Е. Б.</td>
 <td class="sub">3-111 (к)</td>
-<td>Анал и циф схем<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">3-111 (к)</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Холмовская Е. Н.</td>
+<td class="sub">-</td>
 <td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
-<td class="sub">704</td>
+<td class="sub">-</td>
 <td>История бел гос<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Техн пр МЭУ<br />(Лек)<br />Холмовская Е. Н.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>4</th>
-<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td>Проект МУ<br />(Лек)<br />Семенова Л. Н.</td>
+<td class="sub">402</td>
+<td>1.ОсА<br />(ЛР)<br />Федкевич Д. А.</td>
 <td class="sub">401 (к)</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>Техн пр МЭУ<br />(Лек)<br />Холмовская Е. Н.</td>
-<td class="sub">2-211</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>5</th>
@@ -2844,6 +3114,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -2861,17 +3146,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 85</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -2889,59 +3174,59 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>Электррадиокомп<br />(Лек)<br />Гриневич П. Р.</td>
-<td class="sub">Кн.1-124</td>
-<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
-<td class="sub">3-205 (к)</td>
-<td>Электррадиокомп<br />(Лек)<br />Гриневич П. Р.</td>
+<td>Тех Мех<br />(Лек)<br />Бородин Н. Д.</td>
 <td class="sub">Кн.1-319</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">-</td>
+<td>Тех Мех<br />(Лек)<br />Бородин Н. Д.</td>
+<td class="sub">-</td>
+<td>Тех Мех<br />(Лек)<br />Бородин Н. Д.</td>
+<td class="sub">-</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>Пром электр<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">Кн.2-312</td>
-<td>1.Ин Яз<br />(ПР)<br />Скобля Я. Э.<br />2.Ин Яз<br />(ПР)<br />Левданская П. В.</td>
-<td class="sub">Кн.1-126<br />Кн.1-206</td>
 </tr>
 <tr>
 <th>2</th>
 <td>Тех Мех<br />(Лек)<br />Бородин Н. Д.</td>
 <td class="sub">Кн.1-319</td>
-<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
-<td class="sub">301</td>
-<td>1.ФЗКиЗ<br />(ЛР)<br />Бураков И. С.<br />2.ФЗКиЗ<br />(ЛР)<br />Анципов Е. Ю.</td>
-<td class="sub">-<br />-</td>
-<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
-<td class="sub">Кн.1-212</td>
-<td>1.ФЗКиЗ<br />(ЛР)<br />Бураков И. С.<br />2.ФЗКиЗ<br />(ЛР)<br />Анципов Е. Ю.</td>
-<td class="sub">-<br />-</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">-</td>
 <td>Тех Мех<br />(Лек)<br />Бородин Н. Д.</td>
+<td class="sub">-</td>
+<td>Тех Мех<br />(Лек)<br />Бородин Н. Д.</td>
+<td class="sub">-</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Бураков И. С.<br />2.ФЗКиЗ<br />(ЛР)<br />Анципов Е. Ю.</td>
+<td class="sub">-<br />-</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
 <td class="sub">-</td>
 </tr>
 <tr>
 <th>3</th>
-<td>Тех Мех<br />(Лек)<br />Бородин Н. Д.</td>
-<td class="sub">Кн.1-319</td>
-<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
-<td class="sub">3-209</td>
-<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
-<td class="sub">Кн.1-127</td>
+<td>1.Ин Яз<br />(ПР)<br />Скобля Я. Э.<br />2.Основы инж гр<br />(ЛР)<br />Воронько С. В.</td>
+<td class="sub">Кн.1-126<br />Кн.1-317</td>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>Электррадиокомп<br />(Лек)<br />Гриневич П. Р.</td>
+<td class="sub">-</td>
 <td>Матвед<br />(Лек)<br />Самарская Н. В.</td>
 <td class="sub">Кн.1-319</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>Тех Мех<br />(Лек)<br />Бородин Н. Д.</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
 <td class="sub">-</td>
 </tr>
 <tr>
 <th>4</th>
-<td>2.Ин Яз<br />(ПР)<br />Левданская П. В.</td>
-<td class="sub">Кн.1-206</td>
+<td>1.Основы инж гр<br />(ЛР)<br />Воронько С. В.<br />2.Ин Яз<br />(ПР)<br />Левданская П. В.</td>
+<td class="sub">Кн.1-317<br />Кн.1-206</td>
 <td>Пром электр<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">3-111 (к)</td>
+<td class="sub">-</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>Матвед<br />(Лек)<br />Самарская Н. В.</td>
-<td class="sub">Кн.1-319</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -2964,6 +3249,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -2981,17 +3281,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 86</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -3009,29 +3309,29 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
-<td class="sub">301</td>
-<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+<td>1.Ин Яз<br />(ПР)<br />Левданская П. В.<br />2.Ин Яз<br />(ПР)<br />Шаповалова Ю. В.</td>
+<td class="sub">-<br />3-210</td>
+<td>2.Матем в професс<br />(ПР)<br />Вайтович И. М.</td>
 <td class="sub">3-205 (к)</td>
 <td>1.Ин Яз<br />(ПР)<br />Левданская П. В.<br />2.Ин Яз<br />(ПР)<br />Шаповалова Ю. В.</td>
-<td class="sub">3-207<br />3-210</td>
+<td class="sub">-<br />3-210</td>
 <td>Матвед<br />(Лек)<br />Самарская Н. В.</td>
-<td class="sub">701</td>
-<td>Пром электр<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">3-111 (к)</td>
+<td class="sub">-</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
 </tr>
 <tr>
 <th>2</th>
 <td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
 <td class="sub">301</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+<td>Матвед<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">-</td>
 <td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
 <td class="sub">-<br />-</td>
-<td>Матвед<br />(Лек)<br />Самарская Н. В.</td>
-<td class="sub">303</td>
-<td>ЭРЭиУФЭ<br />(Лек)<br />Гриневич П. Р.</td>
-<td class="sub">3-212 (к)</td>
 <td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
 <td class="sub">301</td>
 <td>Основы инж гр<br />(Лек)<br />Воронько С. В.</td>
@@ -3039,29 +3339,29 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>3</th>
+<td>1.Матем в професс<br />(ПР)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>Осн тех механик<br />(Лек)<br />Бородин Н. Д.</td>
+<td class="sub">3-113</td>
+<td>Пром электр<br />(Лек)<br />Плаксин Е. Б.</td>
+<td class="sub">3-111 (к)</td>
 <td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
 <td class="sub">3-205 (к)</td>
 <td>Осн тех механик<br />(Лек)<br />Бородин Н. Д.</td>
 <td class="sub">3-113</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td>2.Матем в професс<br />(ПР)<br />Вайтович И. М.</td>
 <td class="sub">3-205 (к)</td>
-<td>Осн тех механик<br />(Лек)<br />Бородин Н. Д.</td>
-<td class="sub">3-113</td>
-<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
-<td class="sub">301</td>
 </tr>
 <tr>
 <th>4</th>
-<td>Пром электр<br />(Лек)<br />Плаксин Е. Б.</td>
-<td class="sub">3-111 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>Осн тех механик<br />(Лек)<br />Бородин Н. Д.</td>
 <td class="sub">3-113</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>1.Матем в професс<br />(ПР)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
 <td>Осн тех механик<br />(Лек)<br />Бородин Н. Д.</td>
 <td class="sub">3-113</td>
 <td>&nbsp;</td>
@@ -3084,6 +3384,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -3101,17 +3416,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 87</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -3129,18 +3444,18 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>Основы инфбезоп<br />(Лек)<br />Варицкая А. В.</td>
-<td class="sub">2-105 (к)</td>
-<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
-<td class="sub">-<br />-</td>
-<td>Арифмет-лог ВТ<br />(Лек)<br />Бровка Д. С.</td>
-<td class="sub">3-208 (к)</td>
-<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
-<td class="sub">401 (к)</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>Арифмет-лог ВТ<br />(Лек)<br />Бровка Д. С.</td>
-<td class="sub">3-208 (к)</td>
+<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+<td>Основы инфбезоп<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
 </tr>
 <tr>
 <th>2</th>
@@ -3148,42 +3463,42 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">501 (к)</td>
 <td>Оперсис<br />(Лек)<br />Варицкая А. В.</td>
 <td class="sub">2-105 (к)</td>
-<td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
-<td class="sub">3-208 (к)</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
+<td class="sub">-</td>
 <td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
 <td class="sub">3-209</td>
 <td>1.Ин Яз<br />(ПР)<br />Левданская П. В.<br />2.Ин Яз<br />(ПР)<br />Шаповалова Ю. В.</td>
-<td class="sub">2-205<br />3-210</td>
-<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
-<td class="sub">3-209</td>
+<td class="sub">-<br />3-210</td>
+<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
 </tr>
 <tr>
 <th>3</th>
 <td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
 <td class="sub">303</td>
-<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
-<td class="sub">303</td>
-<td>Оперсис<br />(Лек)<br />Варицкая А. В.</td>
-<td class="sub">2-105 (к)</td>
-<td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
-<td class="sub">402</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">3-209</td>
 <td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
 <td class="sub">3-208 (к)</td>
-<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
-<td class="sub">401 (к)</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
+<td class="sub">-</td>
+<td>Арифмет-лог ВТ<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 </tr>
 <tr>
 <th>4</th>
 <td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
 <td class="sub">3-208 (к)</td>
-<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
-<td class="sub">3-209</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
-<td class="sub">-<br />-</td>
-<td>JavaScript<br />(Лек)<br />Сушкевич Е. П.</td>
-<td class="sub">2-206 (к)</td>
+<td>2.Матем в професс<br />(ПР)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+<td>1.Ин Яз<br />(ПР)<br />Левданская П. В.<br />2.Ин Яз<br />(ПР)<br />Шаповалова Ю. В.</td>
+<td class="sub">-<br />3-210</td>
+<td>1.Матем в професс<br />(ПР)<br />Касперович С. А.</td>
+<td class="sub">303</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
@@ -3204,6 +3519,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -3221,17 +3551,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 88</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -3249,46 +3579,46 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
-<td class="sub">303</td>
-<td>Основы инфбезоп<br />(Лек)<br />Бокач Д. В.</td>
-<td class="sub">602</td>
+<td>JavaScript<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">501 (к)</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
 <td class="sub">3-209</td>
-<td>1.Ин Яз<br />(ЛР)<br />Левданская П. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
-<td class="sub">2-205<br />3-210</td>
-<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
-<td class="sub">3-209</td>
+<td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
+<td>Основы инфбезоп<br />(Лек)<br />Бокач Д. В.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>2</th>
 <td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
 <td class="sub">3-209</td>
 <td>1.Ин Яз<br />(ЛР)<br />Левданская П. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
-<td class="sub">3-207<br />3-210</td>
+<td class="sub">-<br />3-210</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
-<td>Оперсис<br />(Лек)<br />Варицкая А. В.</td>
-<td class="sub">2-105 (к)</td>
-<td>Арифмет-лог ВТ<br />(Лек)<br />Бокач Д. В.</td>
-<td class="sub">602</td>
-<td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
-<td class="sub">3-208 (к)</td>
-</tr>
-<tr>
-<th>3</th>
-<td>JavaScript<br />(Лек)<br />Сушкевич Е. П.</td>
-<td class="sub">501 (к)</td>
 <td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
 <td class="sub">3-208 (к)</td>
 <td>1.ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(ЛР)<br />Усикова Л. Н.</td>
 <td class="sub">-<br />-<br />-</td>
+<td>Арифмет-лог ВТ<br />(Лек)<br />Бокач Д. В.</td>
+<td class="sub">-</td>
+</tr>
+<tr>
+<th>3</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
+<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
 <td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
 <td class="sub">401 (к)</td>
-<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
-<td class="sub">3-209</td>
+<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
 <td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
 <td class="sub">303</td>
 </tr>
@@ -3296,16 +3626,16 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <th>4</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>2.Матем в професс<br />(ПР)<br />Касперович С. А.</td>
+<td class="sub">303</td>
 <td>Оперсис<br />(Лек)<br />Варицкая А. В.</td>
 <td class="sub">2-105 (к)</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
-<td class="sub">401 (к)</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(ЛР)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-<br />-</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>1.Матем в професс<br />(ПР)<br />Касперович С. А.</td>
+<td class="sub">303</td>
 </tr>
 <tr>
 <th>5</th>
@@ -3324,6 +3654,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -3341,17 +3686,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 89</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -3373,14 +3718,14 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">3-209</td>
 <td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
 <td class="sub">3-208 (к)</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Совр. язык Java<br />(Лек)<br />Сушкевич Е. П.</td>
+<td class="sub">-</td>
 <td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
 <td class="sub">303</td>
-<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
-<td class="sub">2-316</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Основы инфбезоп<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
+<td>1.Матем в професс<br />(ПР)<br />Касперович С. А.</td>
+<td class="sub">303</td>
 </tr>
 <tr>
 <th>2</th>
@@ -3388,44 +3733,44 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">2-105 (к)</td>
 <td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
 <td class="sub">303</td>
-<td>Совр. язык Java<br />(Лек)<br />Сушкевич Е. П.</td>
-<td class="sub">2-206 (к)</td>
+<td>Арифмет-лог ВТ<br />(Лек)<br />Бровка Д. С.</td>
+<td class="sub">3-208 (к)</td>
 <td>1.Ин Яз<br />(ЛР)<br />Левданская П. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
-<td class="sub">3-207<br />3-210</td>
-<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
-<td class="sub">3-209</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td class="sub">-<br />3-210</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
+<td>Основы инфбезоп<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">2-105 (к)</td>
 </tr>
 <tr>
 <th>3</th>
 <td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
 <td>1.Ин Яз<br />(ЛР)<br />Левданская П. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
-<td class="sub">3-207<br />3-210</td>
-<td>Арифмет-лог ВТ<br />(Лек)<br />Бровка Д. С.</td>
-<td class="sub">3-208 (к)</td>
-<td>Арифмет-лог ВТ<br />(Лек)<br />Бровка Д. С.</td>
-<td class="sub">3-208 (к)</td>
-<td>Совр. язык Java<br />(Лек)<br />Сушкевич Е. П.</td>
-<td class="sub">2-206 (к)</td>
-<td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
-<td class="sub">3-208 (к)</td>
+<td class="sub">-<br />3-210</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">3-209</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
+<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
+<td class="sub">401 (к)</td>
 </tr>
 <tr>
 <th>4</th>
+<td>Матем в професс<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>Основы инфбезоп<br />(Лек)<br />Варицкая А. В.</td>
-<td class="sub">2-105 (к)</td>
-<td>Инструмент ПО<br />(Лек)<br />Бровка Д. С.</td>
-<td class="sub">3-208 (к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>2.Матем в професс<br />(ПР)<br />Касперович С. А.</td>
+<td class="sub">303</td>
 <td>1.ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.</td>
 <td class="sub">-<br />-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>ОсА<br />(Лек)<br />Федкевич Д. А.</td>
-<td class="sub">401 (к)</td>
 </tr>
 <tr>
 <th>5</th>
@@ -3444,6 +3789,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -3461,17 +3821,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 9</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -3489,61 +3849,61 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>Делопроизводств<br />(Лек)<br />Пешкова Г. Д.</td>
-<td class="sub">Кн.1-322</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
-<td class="sub">Кн.1-124</td>
-<td>Секретарск дело<br />(Лек)<br />Пешкова Г. Д.</td>
-<td class="sub">Кн.1-322</td>
-<td>1.Ин Яз<br />(ПР)<br />Колинко Н. Г.<br />2.Ин Яз<br />(ПР)<br />Скобля Я. Э.</td>
+<td>1.Практика речи<br />(ПР)<br />Колинко Н. Г.<br />2.Практика речи<br />(ПР)<br />Скобля Я. Э.</td>
 <td class="sub">Кн.1-208<br />Кн.1-126</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>Секретарск дело<br />(Лек)<br />Пешкова Г. Д.</td>
 <td class="sub">Кн.1-322</td>
+<td>1.Практика речи<br />(ПР)<br />Колинко Н. Г.<br />2.Практика речи<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-208<br />Кн.1-126</td>
 </tr>
 <tr>
 <th>2</th>
-<td>Секретарск дело<br />(Лек)<br />Пешкова Г. Д.</td>
-<td class="sub">Кн.1-322</td>
+<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-208<br />Кн.1-126</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
 <td class="sub">Кн.1-212</td>
 <td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Скобля Я. Э.</td>
 <td class="sub">Кн.1-208<br />Кн.1-126</td>
+<td>История бел гос<br />(Лек)<br />Чертков М. Д.</td>
+<td class="sub">-</td>
+<td>Делопроизводств<br />(Лек)<br />Пешкова Г. Д.</td>
+<td class="sub">Кн.1-322</td>
+<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-208<br />Кн.1-126</td>
+</tr>
+<tr>
+<th>3</th>
 <td>Делопроизводств<br />(Лек)<br />Пешкова Г. Д.</td>
 <td class="sub">Кн.1-322</td>
 <td>1.Практика речи<br />(ПР)<br />Колинко Н. Г.<br />2.Практика речи<br />(ПР)<br />Скобля Я. Э.</td>
 <td class="sub">Кн.1-208<br />Кн.1-126</td>
-<td>Делопроизводств<br />(Лек)<br />Пешкова Г. Д.</td>
-<td class="sub">Кн.1-322</td>
-</tr>
-<tr>
-<th>3</th>
-<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Скобля Я. Э.</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">-</td>
+<td>1.Практика речи<br />(ПР)<br />Колинко Н. Г.<br />2.Практика речи<br />(ПР)<br />Скобля Я. Э.</td>
 <td class="sub">Кн.1-208<br />Кн.1-126</td>
-<td>Инф техн<br />(Лек)<br />Дорц Н. А.</td>
-<td class="sub">Кн.1-322</td>
 <td>ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.</td>
 <td class="sub">-</td>
-<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
-<td class="sub">Кн.1-212</td>
-<td>ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.</td>
-<td class="sub">-</td>
-<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Скобля Я. Э.</td>
-<td class="sub">Кн.1-208<br />Кн.1-126</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 </tr>
 <tr>
 <th>4</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>1.Практика речи<br />(ПР)<br />Колинко Н. Г.<br />2.Практика речи<br />(ПР)<br />Скобля Я. Э.</td>
+<td>Секретарск дело<br />(Лек)<br />Пешкова Г. Д.</td>
+<td class="sub">Кн.1-322</td>
+<td>1.ИнЯз Проф<br />(ПР)<br />Колинко Н. Г.<br />2.ИнЯз Проф<br />(ПР)<br />Скобля Я. Э.</td>
 <td class="sub">Кн.1-208<br />Кн.1-126</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>1.Ин Яз<br />(ПР)<br />Колинко Н. Г.</td>
+<td class="sub">Кн.1-208</td>
+<td>1.Ин Яз<br />(ПР)<br />Колинко Н. Г.<br />2.Ин Яз<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-208<br />Кн.1-126</td>
+<td>2.Ин Яз<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-126</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
@@ -3564,6 +3924,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -3581,17 +3956,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 90</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -3611,29 +3986,29 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <th>1</th>
 <td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
-<td>1.Ин Яз<br />(ПР)<br />Звягина Д. Ч.</td>
-<td class="sub">2-205</td>
-<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
-<td class="sub">3-113</td>
+<td>1.Ин Яз<br />(ПР)<br />Звягина Д. Ч.<br />2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
+<td class="sub">-<br />703</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>1.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
 <td class="sub">703</td>
 <td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
 <td class="sub">301</td>
-<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
-<td class="sub">301</td>
+<td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>2</th>
 <td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
 <td class="sub">3-205 (к)</td>
 <td>Физ химия<br />(Лек)<br />Хомченко И. И.</td>
-<td class="sub">701</td>
-<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
-<td class="sub">3-205 (к)</td>
-<td>1.Ин Яз<br />(ПР)<br />Звягина Д. Ч.<br />2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
-<td class="sub">2-205<br />703</td>
+<td class="sub">-</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.<br />2.ФЗКиЗ<br />(ЛР)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
 <td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
-<td class="sub">701</td>
+<td class="sub">-</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
 </tr>
@@ -3642,28 +4017,28 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td>1.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.<br />2.ФЗКиЗ<br />(ЛР)<br />Усикова Л. Н.</td>
 <td class="sub">-<br />-</td>
 <td>Осн микроэл<br />(Лек)<br />Мурашко А. В.</td>
-<td class="sub">2-212</td>
+<td class="sub">-</td>
 <td>1.Инж графика<br />(ЛР)<br />Воронько С. В.<br />2.Ин Яз<br />(ПР)<br />Шаповалова Ю. В.</td>
 <td class="sub">703<br />3-210</td>
-<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
-<td class="sub">301</td>
 <td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
-<td class="sub">2-212</td>
+<td class="sub">-</td>
 <td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
 <td class="sub">-</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
 </tr>
 <tr>
 <th>4</th>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">2-212</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
+<td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">-</td>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
-<td class="sub">703</td>
-<td>2.Ин Яз<br />(ПР)<br />Шаповалова Ю. В.</td>
-<td class="sub">3-210</td>
-<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
-<td class="sub">3-205 (к)</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
@@ -3684,6 +4059,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -3701,17 +4091,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 91</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -3729,16 +4119,16 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
-<td class="sub">3-113</td>
-<td>ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Осн микроэл<br />(Лек)<br />Мурашко А. В.</td>
 <td class="sub">-</td>
-<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
-<td class="sub">2-316</td>
-<td>ФЗКиЗ<br />(ЛР)<br />Перепелкин А. М.</td>
+<td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
 <td class="sub">-</td>
-<td>1.Ин Яз<br />(ЛР)<br />Звягина Д. Ч.<br />2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
-<td class="sub">3-207<br />703</td>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
+<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
+<td class="sub">3-205 (к)</td>
 <td>Осн микроэл<br />(Лек)<br />Мурашко А. В.</td>
 <td class="sub">-</td>
 </tr>
@@ -3746,42 +4136,42 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <th>2</th>
 <td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
-<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
-<td class="sub">3-205 (к)</td>
+<td>1.Ин Яз<br />(ЛР)<br />Звягина Д. Ч.<br />2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
+<td class="sub">-<br />703</td>
 <td>1.Инж графика<br />(ЛР)<br />Воронько С. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
 <td class="sub">703<br />3-210</td>
-<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
-<td class="sub">301</td>
+<td>1.Ин Яз<br />(ЛР)<br />Звягина Д. Ч.<br />2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
+<td class="sub">-<br />703</td>
 <td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
-<td class="sub">2-212</td>
+<td class="sub">-</td>
 <td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
 <td class="sub">-</td>
 </tr>
 <tr>
 <th>3</th>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">2-212</td>
 <td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
 <td class="sub">301</td>
+<td>Физ химия<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">-</td>
 <td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
 <td class="sub">301</td>
-<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
-<td class="sub">3-205 (к)</td>
-<td>1.Ин Яз<br />(ЛР)<br />Звягина Д. Ч.<br />2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
-<td class="sub">2-205<br />703</td>
 <td>1.Инж графика<br />(ЛР)<br />Воронько С. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
 <td class="sub">703<br />3-210</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Физ химия<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>4</th>
 <td>Физ химия<br />(Лек)<br />Хомченко И. И.</td>
 <td class="sub">302</td>
-<td>Осн микроэл<br />(Лек)<br />Мурашко А. В.</td>
-<td class="sub">2-212</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -3804,6 +4194,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -3821,17 +4226,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 92</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -3849,31 +4254,31 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
-<td class="sub">3-205 (к)</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
-<td class="sub">3-210</td>
 <td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
 <td class="sub">301</td>
 <td>Матем в професс<br />(Лек)<br />Вайтович И. М.</td>
 <td class="sub">3-205 (к)</td>
+<td>1.Инж графика<br />(ЛР)<br />Воронько С. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
+<td class="sub">703<br />3-210</td>
+<td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
+<td class="sub">301</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
+<td class="sub">2-316</td>
 <td>1.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
 <td class="sub">703</td>
 </tr>
 <tr>
 <th>2</th>
 <td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
-<td class="sub">3-113</td>
-<td>Осн микроэл<br />(Лек)<br />Мурашко А. В.</td>
 <td class="sub">2-212</td>
-<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
-<td class="sub">3-113</td>
+<td>Осн микроэл<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">-</td>
+<td>Осн микроэл<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">-</td>
 <td>1.ФЗКиЗ<br />(ЛР)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.</td>
 <td class="sub">-<br />-</td>
 <td>1.Ин Яз<br />(ЛР)<br />Звягина Д. Ч.<br />2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
-<td class="sub">3-207<br />703</td>
+<td class="sub">-<br />703</td>
 <td>ТОЭ<br />(Лек)<br />Тарасова Е. И.</td>
 <td class="sub">301</td>
 </tr>
@@ -3882,28 +4287,28 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td>Физ химия<br />(Лек)<br />Хомченко И. И.</td>
 <td class="sub">302</td>
 <td>1.Ин Яз<br />(ЛР)<br />Звягина Д. Ч.<br />2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
-<td class="sub">2-205<br />703</td>
+<td class="sub">-<br />703</td>
 <td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
-<td class="sub">303</td>
-<td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
-<td class="sub">2-316</td>
+<td class="sub">-</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">-</td>
 <td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
-<td class="sub">701</td>
-<td>Осн микроэл<br />(Лек)<br />Мурашко А. В.</td>
 <td class="sub">-</td>
 </tr>
 <tr>
 <th>4</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>1.Инж графика<br />(ЛР)<br />Воронько С. В.<br />2.Ин Яз<br />(ЛР)<br />Шаповалова Ю. В.</td>
-<td class="sub">703<br />3-210</td>
+<td>1.ФЗКиЗ<br />(ЛР)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(ЛР)<br />Прокопович М. Е.</td>
+<td class="sub">-<br />-</td>
+<td>Физ химия<br />(Лек)<br />Хомченко И. И.</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>2.Инж графика<br />(ЛР)<br />Воронько С. В.</td>
-<td class="sub">703</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Мат комп эл тех<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
@@ -3924,6 +4329,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -3941,17 +4361,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 93*</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -3969,18 +4389,18 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>Осн элек и микр<br />(Лек)<br />Мурашко А. В.</td>
-<td class="sub">Кн.1-127</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
 <td class="sub">Кн.1-201</td>
-<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
-<td class="sub">Кн.1-212</td>
-<td>Физика ТТ<br />(Лек)<br />Мурашко А. В.</td>
-<td class="sub">Кн.1-127</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
+<td class="sub">-</td>
 <td>Электротехника<br />(Лек)<br />Мурашко А. В.</td>
 <td class="sub">Кн.1-127</td>
-<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
-<td class="sub">Кн.1-201</td>
+<td>История бел гос<br />(Лек)<br />Галенко Е. Л.</td>
+<td class="sub">Кн.1-212</td>
 </tr>
 <tr>
 <th>2</th>
@@ -3990,9 +4410,9 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">Кн.1-201</td>
 <td>История бел гос<br />(Лек)<br />Галенко Е. Л.</td>
 <td class="sub">Кн.1-212</td>
-<td>Электрорадиоэле<br />(Лек)<br />Мурашко А. В.</td>
-<td class="sub">Кн.1-127</td>
-<td>Электрорадиоэле<br />(Лек)<br />Мурашко А. В.</td>
+<td>Материалы ЭТех<br />(Лек)<br />Самарская Н. В.</td>
+<td class="sub">Кн.1-319</td>
+<td>Осн элек и микр<br />(Лек)<br />Мурашко А. В.</td>
 <td class="sub">Кн.1-127</td>
 <td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
 <td class="sub">Кн.1-201</td>
@@ -4005,23 +4425,23 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">Кн.1-212</td>
 <td>ФЗКиЗ<br />(ЛР)<br />Бураков И. С.</td>
 <td class="sub">-</td>
-<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
-<td class="sub">Кн.1-206</td>
+<td>Электрорадиоэле<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">Кн.1-127</td>
 <td>Физика ТТ<br />(Лек)<br />Мурашко А. В.</td>
 <td class="sub">Кн.1-127</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>ЭлИз<br />(Лек)<br />Петров Д. А.</td>
+<td class="sub">Кн.1-201</td>
 </tr>
 <tr>
 <th>4</th>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>ФЗКиЗ<br />(ЛР)<br />Бураков И. С.</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>Ин Яз<br />(ПР)<br />Левданская П. В.</td>
 <td class="sub">Кн.1-206</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td>Физика ТТ<br />(Лек)<br />Мурашко А. В.</td>
+<td class="sub">Кн.1-127</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -4044,6 +4464,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -4061,17 +4496,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 94*</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -4089,59 +4524,59 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>ОсА<br />(Лек)<br />Северин А. В.</td>
-<td class="sub">Кн.1-129(к)</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
 <td class="sub">Кн.1-212</td>
 <td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
-<td class="sub">Кн.1-111</td>
-<td>ОсА<br />(Лек)<br />Северин А. В.</td>
-<td class="sub">Кн.1-224(к)</td>
-<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
-<td class="sub">Кн.1-111</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
+<td class="sub">-</td>
+<td>Инструмент ПО<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">-</td>
+<td>Оперсис<br />(Лек)<br />Зеленкевич Е. А.</td>
+<td class="sub">-</td>
+<td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>2</th>
-<td>Ин Яз<br />(ПР)<br />Скобля Я. Э.</td>
-<td class="sub">Кн.1-126</td>
+<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-</td>
 <td>JavaScript<br />(Лек)<br />Сушкевич Е. П.</td>
-<td class="sub">Кн.1-127</td>
+<td class="sub">-</td>
 <td>Охрана труда<br />(Лек)<br />Немцева Н. А.</td>
-<td class="sub">Кн.1-124</td>
-<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
-<td class="sub">Кн.1-206</td>
+<td class="sub">-</td>
+<td>Основы инфбезоп<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">-</td>
 <td>Арифмет-лог ВТ<br />(Лек)<br />Гаврилович Д. И.</td>
-<td class="sub">Кн.1-317</td>
-<td>Ин Яз<br />(ПР)<br />Скобля Я. Э.</td>
-<td class="sub">Кн.1-126</td>
+<td class="sub">-</td>
+<td>Инструмент ПО<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">-</td>
 </tr>
 <tr>
 <th>3</th>
 <td>Инструмент ПО<br />(Лек)<br />Северин А. В.</td>
 <td class="sub">Кн.1-325(к)</td>
-<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
 <td class="sub">-</td>
-<td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
-<td class="sub">Кн.1-212</td>
-<td>JavaScript<br />(Лек)<br />Сушкевич Е. П.</td>
-<td class="sub">Кн.132(к)</td>
-<td>&nbsp;</td>
-<td class="sub">&nbsp;</td>
-<td>ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td>Арифмет-лог ВТ<br />(Лек)<br />Гаврилович Д. И.</td>
 <td class="sub">-</td>
+<td>Основы инфбезоп<br />(Лек)<br />Варицкая А. В.</td>
+<td class="sub">-</td>
+<td>Ин Яз<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-126</td>
+<td>Ин Яз<br />(ПР)<br />Скобля Я. Э.</td>
+<td class="sub">Кн.1-126</td>
 </tr>
 <tr>
 <th>4</th>
-<td>Оперсис<br />(Лек)<br />Зеленкевич Е. А.</td>
-<td class="sub">Кн.1-224(к)</td>
-<td>ОсА<br />(Лек)<br />Северин А. В.</td>
-<td class="sub">Кн.1-107</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
-<td>Инструмент ПО<br />(Лек)<br />Северин А. В.</td>
-<td class="sub">Кн.1-107</td>
+<td>ОсА<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">-</td>
+<td>ОсА<br />(Лек)<br />Северин А. В.</td>
+<td class="sub">-</td>
+<td>Матем в професс<br />(Лек)<br />Гвоздик Т. В.</td>
+<td class="sub">-</td>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -4164,6 +4599,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -4181,17 +4631,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 95</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -4209,47 +4659,47 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>Химия<br />(Лек)<br />Козел А. А.</td>
-<td class="sub">Кн.2-312</td>
 <td>Математика<br />(Лек)<br />Сергун Т. С.</td>
 <td class="sub">403</td>
-<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
-<td class="sub">-<br />-</td>
-<td>Бел Яз<br />(Лек)<br />Барсукова Н. В.</td>
-<td class="sub">Кн.1-124</td>
-<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
-<td class="sub">-<br />-</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
 <td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">Кн.2-312</td>
+<td>Бел Яз<br />(Лек)<br />Барсукова Н. В.</td>
 <td class="sub">-</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-<br />-</td>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">Кн.2-312</td>
 </tr>
 <tr>
 <th>2</th>
-<td>Биология<br />(Лек)<br />Козел А. А.</td>
-<td class="sub">Кн.2-312</td>
-<td>1.Информатика<br />(ЛР)<br />Бокач Д. В.<br />2.Информатика<br />(ЛР)<br />Картавенко А. А.</td>
-<td class="sub">604 (к)<br />2-206 (к)</td>
+<td>География<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
+<td>1.Информатика<br />(Лек)<br />Бокач Д. В.<br />2.Информатика<br />(Лек)<br />Шавейко А. А.</td>
+<td class="sub">604 (к)<br />3-202 (к)</td>
 <td>Рус Лит<br />(Лек)<br />Козлова Т. А.</td>
 <td class="sub">Кн.2-314</td>
-<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
-<td class="sub">Кн.2-312</td>
+<td>Рус Яз<br />(Лек)<br />Козлова Т. А.</td>
+<td class="sub">Кн.2-314</td>
 <td>Бел Лит<br />(Лек)<br />Барсукова Н. В.</td>
-<td class="sub">Кн.1-201</td>
+<td class="sub">-</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
 <td class="sub">Кн.1-212</td>
 </tr>
 <tr>
 <th>3</th>
-<td>Рус Яз<br />(Лек)<br />Козлова Т. А.</td>
-<td class="sub">Кн.2-314</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
 <td>Математика<br />(Лек)<br />Сергун Т. С.</td>
 <td class="sub">403</td>
 <td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
-<td class="sub">Кн.2-312</td>
-<td>Рус Лит<br />(Лек)<br />Козлова Т. А.</td>
-<td class="sub">Кн.2-314</td>
+<td class="sub">502</td>
+<td>1.ДП<br />(ПР)<br />Чертков М. Д.<br />2.Мед Под<br />(ПР)<br />Бондарь С. Л.</td>
+<td class="sub">-<br />-</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Галенко Е. Л.</td>
 <td class="sub">Кн.1-212</td>
-<td>Биология<br />(Лек)<br />Козел А. А.</td>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
 <td class="sub">-</td>
 </tr>
 <tr>
@@ -4284,6 +4734,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -4301,17 +4766,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 96</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -4331,14 +4796,14 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <th>1</th>
 <td>Бел Яз<br />(Лек)<br />Кохно Т. А.</td>
 <td class="sub">702</td>
-<td>Рус Лит<br />(Лек)<br />Самохвал Н. Н.</td>
-<td class="sub">404</td>
-<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
-<td class="sub">-<br />-</td>
+<td>1.Информатика<br />(ЛР)<br />Бокач Д. В.<br />2.Информатика<br />(ЛР)<br />Шавейко А. А.</td>
+<td class="sub">604 (к)<br />3-202 (к)</td>
+<td>Биология<br />(Лек)<br />Макаренко Е. В.</td>
+<td class="sub">-</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
-<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
-<td class="sub">-<br />-</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
 </tr>
@@ -4348,29 +4813,29 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">404</td>
 <td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
 <td class="sub">502</td>
-<td>Химия<br />(Лек)<br />Козел А. А.</td>
-<td class="sub">302</td>
-<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
-<td class="sub">403</td>
 <td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
 <td class="sub">702</td>
 <td>Математика<br />(Лек)<br />Сергун Т. С.</td>
 <td class="sub">403</td>
+<td>1.ДП<br />(ЛР)<br />Чертков М. Д.<br />2.Мед Под<br />(ЛР)<br />Макаренко Е. В.</td>
+<td class="sub">-<br />-</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.<br />2.ФЗКиЗ<br />(Лек)<br />Усикова Л. Н.</td>
+<td class="sub">-<br />-</td>
 </tr>
 <tr>
 <th>3</th>
-<td>Биология<br />(Лек)<br />Макаренко Е. В.</td>
-<td class="sub">2-212</td>
+<td>1.Информатика<br />(ЛР)<br />Бокач Д. В.<br />2.Информатика<br />(ЛР)<br />Шавейко А. А.</td>
+<td class="sub">604 (к)<br />3-202 (к)</td>
 <td>Химия<br />(Лек)<br />Козел А. А.</td>
 <td class="sub">302</td>
 <td>Математика<br />(Лек)<br />Сергун Т. С.</td>
 <td class="sub">403</td>
+<td>Рус Яз<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
 <td>Биология<br />(Лек)<br />Макаренко Е. В.</td>
-<td class="sub">3-209</td>
-<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
-<td class="sub">403</td>
-<td>География<br />(Лек)<br />Поклад Т. И.</td>
-<td class="sub">603</td>
+<td class="sub">-</td>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">502</td>
 </tr>
 <tr>
 <th>4</th>
@@ -4404,6 +4869,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -4421,17 +4901,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 97</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -4449,18 +4929,18 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>1</th>
-<td>Биология<br />(Лек)<br />Макаренко Е. В.</td>
-<td class="sub">2-212</td>
-<td>Биология<br />(Лек)<br />Макаренко Е. В.</td>
-<td class="sub">3-209</td>
-<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
-<td class="sub">702</td>
-<td>Бел Яз<br />(Лек)<br />Кохно Т. А.</td>
-<td class="sub">702</td>
-<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
-<td class="sub">702</td>
+<td>Рус Яз<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+<td>Рус Лит<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+<td>Рус Яз<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
 <td>Математика<br />(Лек)<br />Сергун Т. С.</td>
 <td class="sub">403</td>
+<td>Биология<br />(Лек)<br />Макаренко Е. В.</td>
+<td class="sub">-</td>
+<td>Бел Яз<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
 </tr>
 <tr>
 <th>2</th>
@@ -4468,27 +4948,27 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td class="sub">502</td>
 <td>Математика<br />(Лек)<br />Сергун Т. С.</td>
 <td class="sub">403</td>
-<td>География<br />(Лек)<br />Поклад Т. И.</td>
-<td class="sub">603</td>
-<td>ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.</td>
-<td class="sub">-</td>
+<td>Математика<br />(Лек)<br />Сергун Т. С.</td>
+<td class="sub">403</td>
 <td>Химия<br />(Лек)<br />Козел А. А.</td>
 <td class="sub">302</td>
-<td>Рус Лит<br />(Лек)<br />Самохвал Н. Н.</td>
-<td class="sub">404</td>
+<td>1.Информатика<br />(Лек)<br />Бокач Д. В.<br />2.Информатика<br />(Лек)<br />Шавейко А. А.</td>
+<td class="sub">604 (к)<br />3-202 (к)</td>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">502</td>
 </tr>
 <tr>
 <th>3</th>
-<td>1.Информатика<br />(ЛР)<br />Картавенко А. А.<br />2.Информатика<br />(ЛР)<br />Шавейко А. А.</td>
-<td class="sub">3-212 (к)<br />3-202 (к)</td>
-<td>ФЗКиЗ<br />(Лек)<br />Перепелкин А. М.</td>
+<td>ДП<br />(ЛР)<br />Чертков М. Д.</td>
+<td class="sub">704</td>
+<td>Биология<br />(Лек)<br />Макаренко Е. В.</td>
 <td class="sub">-</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
+<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
 <td>Математика<br />(Лек)<br />Сергун Т. С.</td>
 <td class="sub">403</td>
-<td>ДП<br />(ЛР)<br />Чертков М. Д.</td>
-<td class="sub">704</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Тихонович Н. В.</td>
 <td class="sub">2-316</td>
 </tr>
@@ -4524,6 +5004,21 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </tr>
 <tr>
 <th>6</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
+<tr>
+<th>7</th>
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 <td>&nbsp;</td>
@@ -4541,17 +5036,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 98</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -4570,47 +5065,47 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <tr>
 <th>1</th>
 <td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
-<td class="sub">403</td>
-<td>Биология<br />(Лек)<br />Козел А. А.</td>
-<td class="sub">302</td>
-<td>География<br />(Лек)<br />Поклад Т. И.</td>
-<td class="sub">603</td>
+<td class="sub">402</td>
 <td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
 <td class="sub">-<br />-<br />-</td>
-<td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
-<td class="sub">402</td>
 <td>Математика<br />(Лек)<br />Касперович С. А.</td>
 <td class="sub">303</td>
+<td>Рус Лит<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
+<td class="sub">-</td>
+<td>1.Информатика<br />(ЛР)<br />Гаврилович Д. И.<br />2.Информатика<br />(ЛР)<br />Шавейко А. А.</td>
+<td class="sub">2-206 (к)<br />3-202 (к)</td>
 </tr>
 <tr>
 <th>2</th>
 <td>Математика<br />(Лек)<br />Касперович С. А.</td>
 <td class="sub">303</td>
-<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
-<td class="sub">702</td>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>География<br />(Лек)<br />Поклад Т. И.</td>
+<td class="sub">603</td>
 <td>Рус Яз<br />(Лек)<br />Самохвал Н. Н.</td>
 <td class="sub">404</td>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.<br />3.ФЗКиЗ<br />(Лек)<br />Бураков И. С.</td>
+<td class="sub">-<br />-<br />-</td>
+</tr>
+<tr>
+<th>3</th>
 <td>Бел Яз<br />(Лек)<br />Кохно Т. А.</td>
 <td class="sub">702</td>
 <td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
 <td class="sub">502</td>
-<td>1.Информатика<br />(ЛР)<br />Гаврилович Д. И.<br />2.Информатика<br />(ЛР)<br />Шавейко А. А.</td>
-<td class="sub">2-206 (к)<br />3-202 (к)</td>
-</tr>
-<tr>
-<th>3</th>
-<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
-<td class="sub">702</td>
-<td>Рус Лит<br />(Лек)<br />Самохвал Н. Н.</td>
-<td class="sub">404</td>
 <td>1.ДП<br />(ЛР)<br />Чертков М. Д.<br />2.Мед Под<br />(ЛР)<br />Барсукова Н. В.</td>
-<td class="sub">704<br />701</td>
+<td class="sub">-<br />701</td>
 <td>Математика<br />(Лек)<br />Касперович С. А.</td>
 <td class="sub">303</td>
-<td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td>Биология<br />(Лек)<br />Козел А. А.</td>
 <td class="sub">302</td>
-<td>Рус Яз<br />(Лек)<br />Самохвал Н. Н.</td>
-<td class="sub">404</td>
+<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
 </tr>
 <tr>
 <th>4</th>
@@ -4657,21 +5152,36 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
+<tr>
+<th>7</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <h2>Группа - 99</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -4691,44 +5201,44 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <th>1</th>
 <td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.</td>
 <td class="sub">-<br />-</td>
+<td>Химия<br />(Лек)<br />Козел А. А.</td>
+<td class="sub">302</td>
+<td>1.ДП<br />(ЛР)<br />Чертков М. Д.<br />2.Мед Под<br />(ЛР)<br />Кохно Т. А.</td>
+<td class="sub">-<br />702</td>
+<td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
+<td class="sub">-</td>
 <td>Математика<br />(Лек)<br />Касперович С. А.</td>
 <td class="sub">303</td>
-<td>Химия<br />(Лек)<br />Козел А. А.</td>
-<td class="sub">302</td>
-<td>Химия<br />(Лек)<br />Козел А. А.</td>
-<td class="sub">302</td>
-<td>Биология<br />(Лек)<br />Козел А. А.</td>
-<td class="sub">302</td>
-<td>Рус Лит<br />(Лек)<br />Самохвал Н. Н.</td>
-<td class="sub">404</td>
+<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
+<td class="sub">502</td>
 </tr>
 <tr>
 <th>2</th>
-<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
+<td>Бел Яз<br />(Лек)<br />Кохно Т. А.</td>
 <td class="sub">702</td>
 <td>Рус Яз<br />(Лек)<br />Самохвал Н. Н.</td>
 <td class="sub">404</td>
-<td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
-<td class="sub">402</td>
+<td>Математика<br />(Лек)<br />Касперович С. А.</td>
+<td class="sub">303</td>
 <td>Математика<br />(Лек)<br />Касперович С. А.</td>
 <td class="sub">303</td>
 <td>Ист Бел в к ВС<br />(Лек)<br />Сотникова О. А.</td>
-<td class="sub">402</td>
-<td>Математика<br />(Лек)<br />Касперович С. А.</td>
-<td class="sub">303</td>
+<td class="sub">-</td>
+<td>Бел Яз<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
 </tr>
 <tr>
 <th>3</th>
 <td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
 <td class="sub">502</td>
-<td>1.ДП<br />(ЛР)<br />Чертков М. Д.<br />2.Мед Под<br />(ЛР)<br />Кохно Т. А.</td>
-<td class="sub">704<br />702</td>
-<td>География<br />(Лек)<br />Поклад Т. И.</td>
-<td class="sub">603</td>
+<td>Рус Лит<br />(Лек)<br />Самохвал Н. Н.</td>
+<td class="sub">404</td>
+<td>1.ФЗКиЗ<br />(Лек)<br />Анципов Е. Ю.<br />2.ФЗКиЗ<br />(Лек)<br />Прокопович М. Е.</td>
+<td class="sub">-<br />-</td>
 <td>Биология<br />(Лек)<br />Козел А. А.</td>
 <td class="sub">302</td>
-<td>Физика<br />(Лек)<br />Лебедкина Н. В.</td>
-<td class="sub">502</td>
+<td>Бел Лит<br />(Лек)<br />Кохно Т. А.</td>
+<td class="sub">702</td>
 <td>1.Информатика<br />(ЛР)<br />Гаврилович Д. И.<br />2.Информатика<br />(ЛР)<br />Шавейко А. А.</td>
 <td class="sub">2-206 (к)<br />3-202 (к)</td>
 </tr>
@@ -4777,21 +5287,36 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 <td>&nbsp;</td>
 <td class="sub">&nbsp;</td>
 </tr>
+<tr>
+<th>7</th>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+<td>&nbsp;</td>
+<td class="sub">&nbsp;</td>
+</tr>
 </tbody>
 </table>
 <p>&nbsp;</p>
 <h2>Группа - Кол пром строит мат</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -4811,17 +5336,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - Кол совр технологий</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -4841,17 +5366,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - Кол сферы обслуж</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>
@@ -4871,17 +5396,17 @@ function googleTranslateElementInit2() {new google.translate.TranslateElement({p
 </table>
 <p>&nbsp;</p>
 <h2>Группа - Техн кол</h2>
-<h3>01.09.2025 - 07.09.2025</h3>
+<h3>08.09.2025 - 14.09.2025</h3>
 <table border="1" width="1175" cellspacing="0" cellpadding="3">
 <tbody>
 <tr>
 <th rowspan="2">№</th>
-<th colspan="2">Понедельник, 01.09.2025</th>
-<th colspan="2">Вторник, 02.09.2025</th>
-<th colspan="2">Среда, 03.09.2025</th>
-<th colspan="2">Четверг, 04.09.2025</th>
-<th colspan="2">Пятница, 05.09.2025</th>
-<th colspan="2">Суббота, 06.09.2025</th>
+<th colspan="2">Понедельник, 08.09.2025</th>
+<th colspan="2">Вторник, 09.09.2025</th>
+<th colspan="2">Среда, 10.09.2025</th>
+<th colspan="2">Четверг, 11.09.2025</th>
+<th colspan="2">Пятница, 12.09.2025</th>
+<th colspan="2">Суббота, 13.09.2025</th>
 </tr>
 <tr>
 <th class="sub">Дисциплина, вид занятия, преподаватель</th>

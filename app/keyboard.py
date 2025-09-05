@@ -2,17 +2,22 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, InlineKeyboardMar
 from aiogram.utils.keyboard import ReplyKeyboardBuilder, InlineKeyboardBuilder
 
 main = ReplyKeyboardMarkup(keyboard=[
-    [KeyboardButton(text='День'), KeyboardButton(text='Неделя')]
+    [KeyboardButton(text='День'), KeyboardButton(text='Неделя')],
+    [KeyboardButton(text='Звонки')]
 ], resize_keyboard=True, input_field_placeholder='Выберите пункт меню...')
 
-main2 = InlineKeyboardMarkup(inline_keyboard=[
-    [InlineKeyboardButton(text='День', callback_data='day'), InlineKeyboardButton(text='Неделя', callback_data='week')]
+week_next = InlineKeyboardMarkup(inline_keyboard=[
+    [InlineKeyboardButton(text='Дальше', callback_data='next_week')]
+])
+
+week_current = InlineKeyboardMarkup(inline_keyboard=[
+    [InlineKeyboardButton(text='Назад', callback_data='current_week')]
 ])
 
 settings = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(text='github', url='https://github.com')]
 ])
-days = ['mon','tue','wed']
+days = ['','']
 
 async def inline_days():
     keyboard = InlineKeyboardBuilder()

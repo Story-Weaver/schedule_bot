@@ -30,30 +30,16 @@ async def createPair():
         await conn.close()
 
 
-async def getDay(user_id):
+async def getDay(user_id, date):
     group_number = await getGroup(user_id)
     if group_number is None:
         return None
 
-
-    print(datetime.now().hour)  # текущее время
-    print(datetime.today().date().strftime('%d.%m.%Y'))  # дата сегодня
-    print((datetime.today() + timedelta(days=1)).date().strftime('%d.%m.%Y'))  # дата завтра
-
     conn = await connect_to_postgres()
-    today = datetime.today()
-    today_str = today.date().strftime('%d.%m.%Y')
-    tomorrow_str = (today + timedelta(days=1)).date().strftime('%d.%m.%Y')
-    print(today_str)
-    print(tomorrow_str)
-    if datetime.now().hour < 17:
-        date_to_use = today_str
-    else:
-        date_to_use = tomorrow_str
 
     try:
-        print(f"SELECT * FROM schedule WHERE group_number = {group_number} AND date = '{date_to_use}';")
-        day = await conn.fetch(f"SELECT * FROM schedule WHERE group_number = {group_number} AND date = '{date_to_use}';")
+        print(f"SELECT * FROM schedule WHERE group_number = {group_number} AND date = '{date}';")
+        day = await conn.fetch(f"SELECT * FROM schedule WHERE group_number = {group_number} AND date = '{date}';")
         return day
     finally:
         await conn.close()
