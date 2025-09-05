@@ -14,9 +14,6 @@ week_current = InlineKeyboardMarkup(inline_keyboard=[
     [InlineKeyboardButton(text='Назад', callback_data='current_week')]
 ])
 
-settings = InlineKeyboardMarkup(inline_keyboard=[
-    [InlineKeyboardButton(text='github', url='https://github.com')]
-])
 days = ['','']
 
 async def inline_days():

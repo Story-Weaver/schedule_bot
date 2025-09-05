@@ -3,7 +3,6 @@ import asyncio
 from datetime import datetime, timedelta
 
 async def connect_to_postgres():
-    """Устанавливает асинхронное подключение к PostgreSQL без пароля"""
     try:
         # Подключение к базе данных без пароля
         connection = await asyncpg.connect(
@@ -38,7 +37,6 @@ async def getDay(user_id, date):
     conn = await connect_to_postgres()
 
     try:
-        print(f"SELECT * FROM schedule WHERE group_number = {group_number} AND date = '{date}';")
         day = await conn.fetch(f"SELECT * FROM schedule WHERE group_number = {group_number} AND date = '{date}';")
         return day
     finally:

@@ -38,6 +38,12 @@ async def qwerty(message: Message):
 
     await message.answer('pong')
 
+@router.message(F.text == 'Звонки')
+async def qwerty(message: Message):
+    schedule_text = """(Будни)\n1. 09:00 - 09:45 | 09:55 - 10:40\n2. 10:50 - 11:35 | 11:55 - 12:40\n3. 13:00 - 13:45 | 13:55 - 14:40\n4. 14:50 - 15:35 | 15:45 - 16:30\n5. 16:40 - 17:25 | 17:35 - 18:20\n\n(Суббота)\n1. 09:00 - 09:45 | 09:55 - 10:40\n2. 10:50 - 11:35 | 11:55 - 12:40\n3. 12:50 - 13:35 | 13:45 - 14:30\n4. 14:40 - 15:25 | 15:35 - 16:20\n5. 16:30 - 17:15 | 17:25 - 18:10"""
+    
+    await message.answer(schedule_text)
+
 @router.message(F.text == 'Неделя')
 async def week(message: Message):
     today = datetime.today().date()
